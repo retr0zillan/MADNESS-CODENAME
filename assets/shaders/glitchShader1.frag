@@ -1,7 +1,7 @@
 #pragma header
   
   uniform float iTime;
-  
+  uniform float GLITCH = 0.05;
   float sat( float t ) {
     return clamp( t, 0.0, 1.0 );
   }
@@ -56,7 +56,6 @@
     
     float time = mod(iTime*100.0, 32.0)/110.0; // + modelmat[0].x + modelmat[0].z;
   
-    float GLITCH = 0.05;
     
     float gnm = sat( GLITCH );
     float rnd0 = rand( mytrunc( vec2(time, time), 6.0 ) );

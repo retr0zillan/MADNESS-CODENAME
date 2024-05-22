@@ -3,7 +3,7 @@ import flixel.group.FlxGroup;
 import flixel.group.FlxGroup.FlxTypedGroup;
 import haxe.Json;
 import flixel.FlxG;
-
+import Xml;
 var deimoSpr:FlxSprite;
 var questSpr:FlxSprite;
 var incorrectSpr:FlxSprite;
@@ -12,20 +12,45 @@ var hellyeah:FlxTypeText;
 var bg:FlxSprite;
 var dia:FlxSprite;
 var answersGroup:Array<FlxSprite> = [];
-function create(){
-	FlxG.sound.cache(Paths.sound('skuish'));
-	preload('game/questionM/CORRECT');
-	preload('game/questionM/diaBox');
-	preload('game/questionM/elreytlin88');
-	preload('game/questionM/INCORRECT');
-	preload('game/questionM/Options');
-	preload('game/questionM/QUESTION');
-	preload('game/questionM/deimosQUESTION');
 
+function loadXml(){
+	var xml = null;
+
+	xml = Xml.parse(Assets.getText(Paths.xml('questions')));
+
+	for (quest in xml.elementsNamed("quest")) {
+		var question = quest.get("question");
+		var optionsString = quest.get("options");
+		var options = optionsString.split(",");
+		var answer = Std.parseInt(quest.get("answer"));
+
+		
+
+		var wow:Dynamic = {
+			question: question,
+			options: options,
+			answer: answer
+		}
+		questions.push(wow);
+	 
+	}
+
+}
+function create(){
+	loadXml();
+	FlxG.sound.cache(Paths.sound('skuish'));
+	graphicCache.cache(Paths.image("game/questionM/CORRECT"));
+	graphicCache.cache(Paths.image("game/questionM/diaBox"));
+	graphicCache.cache(Paths.image("game/questionM/elreytlin88"));
+	graphicCache.cache(Paths.image("game/questionM/INCORRECT"));
+	graphicCache.cache(Paths.image("game/questionM/Options"));
+	graphicCache.cache(Paths.image("game/questionM/QUESTION"));
+	graphicCache.cache(Paths.image("game/questionM/deimosQUESTION"));
 
 
 }
 var daQuestion:Dynamic;
+var questions:Array<Dynamic>=[];
 var blackList:Array<Int>=[];
 
 //var data:Array<Dynamic>=[];
@@ -34,7 +59,7 @@ public function makeRandomQuestion(){
 	hellyeah = new FlxTypeText(20, 577, 1178, '', 38, true);
         
 	hellyeah.font = Paths.font("vcr.ttf");
-	hellyeah.cameras = [camHUD];
+	hellyeah.cameras = [tacCam];
 
 	bg = new FlxSprite(0,0);
     bg.frames = Paths.getFrames('game/questionM/elreytlin88');
@@ -42,7 +67,7 @@ public function makeRandomQuestion(){
     bg.scale.set(0.8,0.8);
     bg.animation.addByPrefix('appear','nigg instance',24, true);
     bg.animation.play('appear');
-    bg.cameras = [camHUD];
+    bg.cameras = [tacCam];
                
     bg.antialiasing = true;
     add(bg);
@@ -52,12 +77,12 @@ public function makeRandomQuestion(){
 
 	deimoSpr.scale.set(1.2,1.2);
 	deimoSpr.scrollFactor.set();
-	deimoSpr.cameras = [camHUD];
+	deimoSpr.cameras = [tacCam];
 	
 	add(deimoSpr);
 	questSpr = new FlxSprite(-52,57).loadGraphic(Paths.image('game/questionM/QUESTION'));
 	questSpr.antialiasing = true;
-	questSpr.cameras = [camHUD];
+	questSpr.cameras = [tacCam];
 
 
 	add(questSpr);
@@ -69,17 +94,17 @@ public function makeRandomQuestion(){
 	dia.animation.addByPrefix('appear','Text Intro',24, false);
 	dia.animation.addByPrefix('idle','Text Idle',24, true);
 	dia.antialiasing = true;
-	dia.cameras = [camHUD];
+	dia.cameras = [tacCam];
 
 	add(dia);
 
 
 	
-	var data = Json.parse(Assets.getText('assets/data/questions.json'));
 
-	trace(data);
-	var val = FlxG.random.int(0,data.length,blackList);
-	daQuestion = data[val];
+	//var val = FlxG.random.int(0,data.length,blackList);
+	//daQuestion = data[val];
+	var val = FlxG.random.int(0,questions.length,blackList);
+	daQuestion = questions[val];
 	blackList.push(val);
 	trace('The question is '+ daQuestion.question);
 
@@ -313,10 +338,3 @@ function createAnswers(){
 
 }
 var answersText:Array<FlxText>=[];
-function preload(imagePath:String) {
-    var graphic = FlxG.bitmap.add(Paths.image(imagePath));
-    graphic.useCount++;
-    graphic.destroyOnNoUse = false;
-    graphicCache.cachedGraphics.push(graphic);
-    graphicCache.nonRenderedCachedGraphics.push(graphic);
-}

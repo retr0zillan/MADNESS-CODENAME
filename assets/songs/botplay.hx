@@ -5,7 +5,14 @@ import flixel.math.FlxBasePoint;
 var botplayTxts:Array<FlxText> = [];
 static var curBotplay:Bool = false;
 curBotplay = false;
-
+function create(){
+	if(PlayState.SONG.stage == "helicopter2"){
+		disableScript();
+		trace("shit");
+		return;
+	
+	}
+}
 function postCreate() {
 	for (strumLine in strumLines) {
 		strumLine.extra.set('botplayTxt', new FlxText(0, 0, null, 'BOTPLAY', 32));
@@ -13,7 +20,7 @@ function postCreate() {
 		botplayTxt.setFormat(Paths.font("vcr.ttf"), 32, FlxColor.WHITE, FlxTextAlign.CENTER, FlxTextBorderStyle.OUTLINE, FlxColor.BLACK);
 		botplayTxt.visible = curBotplay;
 		botplayTxt.borderSize = 1.25;
-		botplayTxt.camera = camHUD;
+		botplayTxt.camera = camNotes;
 		add(botplayTxt);
 	}
 }

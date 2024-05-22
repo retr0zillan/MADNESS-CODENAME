@@ -61,7 +61,7 @@ import sys.FileSystem;
 	var optionShit:Array<String> = ['Story', 'Arena', 'Char', 'Shop', 'Options', 'Exit'];
 	
 
-	var subOptionShit:Array<String> = ['Freeplay', 'Versus', 'Madness'];
+	var subOptionShit:Array<String> = ['Freeplay', 'Madness'];
 
 	var magenta:FlxSprite;
 	var camFollow:FlxObject;
@@ -76,24 +76,19 @@ import sys.FileSystem;
 	var daShader:CustomShader;
 	var angled:Bool = false;
 
+	
 	var newSongList:Array<String>=[];
-	function replace(str:String, target:String, replacement:String):String {
-		var index = str.indexOf(target);
-		if (index != -1) {
-			return str.substr(0, index) + replacement + str.substr(index + target.length);
-		} else {
-			return str;
-		}
-	}
+
 	 	function create() {
 	
-			trace(selectedChar);
 	
+			
+		
 
 			for(file in FileSystem.readDirectory('assets/images/menus/madnessmainmenu/NowPlaying') ){
 				if(file.indexOf(".xml")!=-1){
 
-					file = replace(file, ".xml", "");
+					file = StringTools.replace(file, ".xml", "");
 
 					newSongList.push(file);
 
@@ -166,7 +161,7 @@ import sys.FileSystem;
 		subWall = new FlxSprite(808, 242);
 		subWall.frames = Paths.getFrames('menus/madnessmainmenu/subWallButton');
 		subWall.animation.addByPrefix('intro', 'appear', 24, false);
-		subWall.scale.set(1, 1);
+		subWall.scale.set(1, 0.8);
 		subWall.antialiasing = true;
 		subWall.alpha = 0;
 
@@ -209,7 +204,7 @@ import sys.FileSystem;
 
 		for (i in 0...subOptionShit.length)
 		{
-			var sub:FlxSprite = new FlxSprite(subWall.x + 15, subWall.y + 17 + (i * 50));
+			var sub:FlxSprite = new FlxSprite(subWall.x + 15, subWall.y + 35 + (i * 50));
 			sub.frames = Paths.getFrames('menus/madnessmainmenu/subButtonShit');
 			sub.animation.addByPrefix('sub-idle', subOptionShit[i] + " Off", 24);
 			sub.animation.addByPrefix('sub-selected', subOptionShit[i] + " On", 24);
@@ -484,12 +479,10 @@ import sys.FileSystem;
 
 							case 1:
 
-								FlxG.switchState(new FreeplayState());
+								FlxG.switchState(new ModState("MadnessModeState"));
 								trace('freeplay');
 
-							case 2:
-								FlxG.switchState(new FreeplayState());
-								trace('freeplay');
+							
 
 
 								//FlxG.switchState(new MadnessState());

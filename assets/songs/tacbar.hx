@@ -16,17 +16,18 @@ public var SprBorder:FlxSprite;
 public var fullBitmap = BitmapData.fromFile(Paths.image('game/tacBarFill'));
 public var emptyBitmap = BitmapData.fromFile(Paths.image('game/tacBarEmpty'));
 public var currentCorp:Int = 2;
+public var displayNotes:Bool = true;
 public var tacCam:FlxCamera = new FlxCamera();
 var chroma:CustomShader = null;
+public var camNotes:HudCamera;
 
 function create(){
-	if(Options.gameplayShaders) {
+	PauseSubState.script = 'data/scripts/pausescript';
+    FlxG.cameras.add(camNotes = new HudCamera(), false);
+    camNotes.bgColor = '#00000000';
+	camNotes.downscroll = downscroll;
+
 	
-		chroma = new CustomShader('madnesschromaticaberration');
-		chroma.intensity = 0.015;
-		
-		camGame.addShader(chroma);
-	}
 
 	for(i=>strumLine in SONG.strumLines){
 		for(k=>charName in strumLine.characters){
@@ -62,6 +63,15 @@ function create(){
 	
 }
 function onNoteCreation(event) {
+	var note = event.note;
+    var line  = note.strumLine;
+    
+    note.cameras = [camNotes];
+    
+    for (strum in line.members) {
+        strum.cameras = [camNotes];
+    }
+
 	if(FlxG.save.data.middleScroll){
 		if (event.note.strumLine == cpuStrums){
 			event.note.visible = false;
@@ -71,6 +81,7 @@ function onNoteCreation(event) {
 	
 
 
+		
 
 
 
@@ -95,7 +106,13 @@ function onStrumCreation(event) {
 
 
 }
-function postUpdate(){
+
+function beatHit(){
+	if (Options.camZoomOnBeat && camZooming && FlxG.camera.zoom < maxCamZoom && curBeat % camZoomingInterval == 0)
+		camNotes.zoom += 0.03 * camZoomingStrength;
+}
+    
+function postUpdate(elased:Float){
 	if(!FlxG.save.data.defHealth)
 		{
 			iconP1.setPosition(1130,530);
@@ -103,15 +120,17 @@ function postUpdate(){
 			iconP1.animation.curAnim.curFrame = currentCorp < 1 ? 1:0;
 		}
 
+}
+function update(elapsed:Float){
+
 
 	if(downscroll)
 		iconP1.y = iconP1.y - 550;
-
-
-
-}
-  function update(){
-
+	
+	if (camZooming){
+		camNotes.zoom = lerp(camNotes.zoom, 1, 0.05);
+   
+	}
 
 	if(health <= 0 && canDie)
 		updateTicks();
@@ -119,6 +138,10 @@ function postUpdate(){
   function onPlayerMiss(e) {
 	if(!FlxG.save.data.defHealth)
 		if(e.note.noteTypeID == 0) e.healthGain -= 0.08;
+
+	if(madnessMode)
+		gameOver(boyfriend);
+
   }
 function onPlayerHit(e){
 	if(!FlxG.save.data.defHealth)
@@ -154,10 +177,43 @@ public function updateTicks(){
  }
  
 
+function onSongEnd(){
+	var crap:Array<String> = PlayState.storyPlaylist.copy();
+	crap.shift();
+	if (PlayState.isStoryMode && crap.length <= 0 && !weekUnlocked[storyWeek + 1]){
+		trace('unlocking next week');
+		unlockNextWeek(storyWeek);
+	}
+}
 
+        
+ function unlockNextWeek(week:Int):Void
+	{
+			if (week <= globalWeekData.length - 1) 
+			{
+					weekUnlocked.push(true);
+					trace('Week ' + week + ' beat (Week ' + (week + 1) + ' unlocked)');
+			}
 
-function postCreate() {
+			FlxG.save.data.weekUnlocked = weekUnlocked.length - 1;
+			FlxG.save.flush();
+	}
 	
+function postCreate() {
+	if(Options.gameplayShaders) {
+	
+		chroma = new CustomShader('madnesschromaticaberration');
+		chroma.intensity = 0.015;
+			@:privateAccess
+			if(camGame._filters==null){
+				camGame.addShader(chroma);
+				trace("adding chroma shader");
+	
+			}
+		
+	
+	}
+
 	scoreTxt.font = Paths.font('impact.ttf');
 	missesTxt.font = Paths.font('impact.ttf');
 	accuracyTxt.font = Paths.font('impact.ttf');

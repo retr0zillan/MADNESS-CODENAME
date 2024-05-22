@@ -17,9 +17,9 @@ function create() {
 
 	if(Options.gameplayShaders) {
 		glitch = new CustomShader('glitchShader1');
+		glitch.GLITCH = 0.04;
 
 		camGame.addShader(glitch);
-		camHUD.addShader(glitch);
 
 	}
 

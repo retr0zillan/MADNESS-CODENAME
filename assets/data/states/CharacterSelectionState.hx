@@ -75,15 +75,9 @@ var characterInfo:Array<Dynamic> = [{
 function create(){
 	Conductor.changeBPM(103);
 	for(char in charNames)
-		preload("characters/"+char);
+		graphicCache.cache(Paths.image("characters/"+char));
 }
-function preload(imagePath:String) {
-    var graphic = FlxG.bitmap.add(Paths.image(imagePath));
-    graphic.useCount++;
-    graphic.destroyOnNoUse = false;
-    graphicCache.cachedGraphics.push(graphic);
-    graphicCache.nonRenderedCachedGraphics.push(graphic);
-}
+
 function beatHit(curBeat){
 	preview.playAnim("idle");
 }
@@ -97,6 +91,11 @@ function retrieveInfo(who:String):Dynamic{
 	return null;
 }
 function postCreate() {
+
+	FlxG.camera.alpha = 0;
+	FlxG.camera.zoom = 2;
+	FlxTween.tween(FlxG.camera, {zoom: 1, alpha: 1}, 1, {ease: FlxEase.expoInOut});
+
 	FlxG.mouse.visible = true;
 	add(bg = new FlxSprite(-319,-180).loadGraphic(Paths.image('menus/charSel/CharacterSelect_bg')));
 	bg.antialiasing = true;
@@ -270,7 +269,15 @@ function update(elapsed) {
 		FlxG.sound.play(Paths.sound('cuack'));
 	}
 	if(controls.BACK||(FlxG.mouse.overlaps(done) && FlxG.mouse.justPressed)){
-		FlxG.switchState(new MainMenuState());
+		FlxG.camera.flash(FlxColor.RED, 1);
+
+		FlxTween.tween(FlxG.camera, {zoom: 2, alpha: 0}, 1, {ease: FlxEase.expoInOut});
+		new FlxTimer().start(2, function(tmr:FlxTimer)
+			{
+				FlxG.switchState(new MainMenuState());
+
+			});
+			
 	}
 	for(col in colsA){
 		if(FlxG.mouse.overlaps(col)){

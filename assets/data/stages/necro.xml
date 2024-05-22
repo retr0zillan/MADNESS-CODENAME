@@ -13,5 +13,4 @@
 	<boyfriend x = "1400" y = "460" camxoffset = "-193" camyoffset = "-113" scale = "0.5"/>
 	<character name = "Coolhank" x = "1400" y = "460" camxoffset = "-193" camyoffset = "-113" scale = "0.8"/>
 
-	<sprite name="effect"    x="344" y="-11"   sprite="Necrophegiasteffect"   scroll="0.9" />
 </stage>

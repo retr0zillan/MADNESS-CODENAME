@@ -49,9 +49,9 @@ function create()
 		deimos = new FunkinSprite(355, 326);
 		
         deimos.frames = Paths.getFrames('characters/helideimos');
-        deimos.animation.addByPrefix('bumps', 'Bumping', 24, false);
+        deimos.animation.addByPrefix('bumps', 'Bumping', 24, true);
 		deimos.animation.addByPrefix('miss', 'Miss', 24, false);
-        deimos.animation.addByPrefix('shootIdle', 'ShootingDeimos_Idle', 24, false);
+        deimos.animation.addByPrefix('shootIdle', 'ShootingDeimos_Idle', 24, true);
         deimos.animation.addByPrefix('shootFront', 'Shoot1_ShootingDeimos', 24, false);
         deimos.animation.addByPrefix('shootBack', 'Shoot2_ShootingDeimos', 24, false);
 
@@ -74,8 +74,8 @@ function create()
        
 	
 		//add(bfCopter);
+		insert(members.indexOf(PlayState.instance.comboGroup),bfCopter);
 
-		add(bfCopter);
          clouds2 = new FlxBackdrop(Paths.image('stages/helicopter/CLOUDS 2'));
 		 clouds2.moves = true;
 

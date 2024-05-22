@@ -430,6 +430,7 @@ public function changeSelection(change:Int = 0, force:Bool = false)
 	
 			curDifficulty = change;
 	
+	
 			updateScore();
 	
 		}
@@ -445,13 +446,13 @@ public function changeSelection(change:Int = 0, force:Bool = false)
 			Options.freeplayLastSong = songs[curSelected].name;
 			Options.freeplayLastDifficulty = songs[curSelected].difficulties[curDifficulty];
 	
-			FlxG.camera.flash(FlxColor.RED, 1);
 			PlayState.loadSong(songs[curSelected].name, songs[curSelected].difficulties[curDifficulty], false, 0);
 
 			new FlxTimer().start(2, function(tmr:FlxTimer)
 				{
 					FlxG.switchState(new ModState('LoadingState'));
 				});
+			FlxG.camera.flash(FlxColor.RED, 1);
 
 			FlxTween.tween(FlxG.camera, {zoom: 2, alpha: 0}, 1, {ease: FlxEase.expoInOut});
 
@@ -468,16 +469,17 @@ public function changeSelection(change:Int = 0, force:Bool = false)
 			}
 			var changes:Array<HighscoreChange> = [];
 	
-			trace(songs[curSelected].name);
-			trace(songs[curSelected].difficulties[curDifficulty].toLowerCase());
-
-			var saveData = FunkinSave.getSongHighscore(songs[curSelected].name, songs[curSelected].difficulties[curDifficulty].toLowerCase(), changes);
+		
+			var difficulty:String = songs[curSelected].difficulties[curDifficulty].toLowerCase();
+			trace(difficulty);
+			
+			var saveData = FunkinSave.getSongHighscore(songs[curSelected].name, difficulty, changes);
 		
 			intendedScore = saveData.score;
 		}
 
 		var canClickDiff:Bool = false;
-	function postUpdate(elapsed){
+	function postUpdate(elapsed:Float){
 	
 
 		if(Conductor.bpm>180)

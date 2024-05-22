@@ -1,0 +1,12 @@
+<!DOCTYPE madness-quest>
+<quest question="WHOS THE CREATOR OF THE MADNESS COMBAT SERIES?" options="KRINKELS,KRONKELS,KRUNKELS" answer="0"/>
+<quest question="WHATS JEBUS FIRST NAME?" options="JEBUS,JEBEDIAH,GOD" answer="1"/>
+<quest question="WHOS THE BEST MC CHARACTER?" options="DEIMOS,DEIMOS,DEIMOS" answer="0"/>
+<quest question="WHO KILLED DEIMOS?" options="TRICKY,MAG AGENT,ATP ENGINEER" answer="2"/>
+<quest question="THE YEAR OF THE FIRST MADNESS COMBAT EPISODE WAS?" options="2005,2003,2002" answer="2"/>
+<quest question="WHOS HANK NEMESIS?" options="JEBUS,TRICKY,AUDITOR" answer="1"/>
+<quest question="WHATS THE COLOR OF TRICKY THIRD TRANSFORMATION?" options="BLACK,RED,WHITE" answer="2"/>
+<quest question="HOW MANY TIMES DID HANK DIE IN THE MC SERIES?" options="7,5,10" answer="0"/>
+<quest question="WHATS TRICKY FAVOURITE SONG?" options="APOTHEOSIS,DESPACITO,CHICKEN DANCE" answer="2"/>
+<quest question="WHERE DOES MADNESS COMBAT TOOK PLACE IN?" options="NEVADA,MEXICO,CANADA" answer="0"/>
+<quest question="WHATS THE BINARY SEQUENCE IN JEBUS SWORD?" options="101011100,100111100,KILL ME" answer="1"/>

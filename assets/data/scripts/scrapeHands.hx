@@ -7,13 +7,7 @@ import flixel.graphics.frames.FlxAtlasFrames;
 
 import flixel.FlxG;
 import funkin.backend.assets.Paths;
-function preload(imagePath:String) {
-    var graphic = FlxG.bitmap.add(Paths.image(imagePath));
-    graphic.useCount++;
-    graphic.destroyOnNoUse = false;
-    graphicCache.cachedGraphics.push(graphic);
-    graphicCache.nonRenderedCachedGraphics.push(graphic);
-}
+
 var hands:FunkinSprite;
 
 function create() {

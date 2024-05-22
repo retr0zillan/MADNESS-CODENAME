@@ -1,24 +1,17 @@
 import funkin.game.PlayState;
 
 
-function preload(imagePath:String) {
-    var graphic = FlxG.bitmap.add(Paths.image(imagePath));
-    graphic.useCount++;
-    graphic.destroyOnNoUse = false;
-    graphicCache.cachedGraphics.push(graphic);
-    graphicCache.nonRenderedCachedGraphics.push(graphic);
-}
+
 var chroma:CustomShader = null;
 function create() {
 
 
 
 
-	preload('game/splashes/deathwish');
 
-	preload('game/splashes/bulletnote');
+	graphicCache.cache(Paths.image("game/splashes/deathwish"));
 
-
+	graphicCache.cache(Paths.image("game/splashes/bulletnote"));
 
 }
 var playShoot:Bool=false;

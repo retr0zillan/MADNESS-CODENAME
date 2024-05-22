@@ -2,13 +2,7 @@ import funkin.backend.shaders.CustomShader;
 import funkin.game.PlayState;
 var newCam:FlxCamera = new FlxCamera();
 
-function preload(imagePath:String) {
-    var graphic = FlxG.bitmap.add(Paths.image(imagePath));
-    graphic.useCount++;
-    graphic.destroyOnNoUse = false;
-    graphicCache.cachedGraphics.push(graphic);
-    graphicCache.nonRenderedCachedGraphics.push(graphic);
-}
+
 function create() {
 	newCam.bgColor = 0;
     FlxG.cameras.add(newCam, false);
@@ -17,7 +11,7 @@ function create() {
 
 	FlxG.sound.cache(Paths.sound('strike'));
 
-	preload('game/splashes/deathwish');
+	graphicCache.cache(Paths.image("game/splashes/deathwish"));
 
 
 }
