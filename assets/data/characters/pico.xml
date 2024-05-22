@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" x="0" y="0" color = "#9dd127" scale="1" sprite = "Pico">
+	<anim name="idle"          anim="GunlessIdle"      fps="24" loop="false" x="125"  y="159"/>
+	<anim name="singUP"        anim="GunlessUp"        fps="24" loop="false" x="124" y="183"/>
+	<anim name="singLEFT"      anim="GunlessLeft"      fps="24" loop="false" x="132"  y="158"/>
+	<anim name="singRIGHT"     anim="GunlessRight"     fps="24" loop="false" x="123" y="155"/>
+	<anim name="singDOWN"      anim="GunlessDown"      fps="24" loop="false" x="137" y="146"/>
+	<anim name="singUPmiss"    anim="MissUp"    fps="24" loop="false" x="144" y="182"/>
+	<anim name="singLEFTmiss"  anim="MissLeft"  fps="24" loop="false" x="167"  y="159"/>
+	<anim name="singRIGHTmiss" anim="MissRight" fps="24" loop="false" x="225" y="156"/>
+	<anim name="singDOWNmiss"  anim="MissDown"  fps="24" loop="false" x="210" y="148"/>
+	<anim name="idle-alt"          anim="Idle"      fps="24" loop="false" x="138"  y="161"/>
+	<anim name="singUP-alt"        anim="Up"        fps="24" loop="false" x="127" y="242"/>
+	<anim name="singLEFT-alt"      anim="Left"      fps="24" loop="false" x="269"  y="143"/>
+	<anim name="singRIGHT-alt"     anim="Right"     fps="24" loop="false" x="105" y="160"/>
+	<anim name="singDOWN-alt"      anim="Down"      fps="24" loop="false" x="103" y="144"/>
+	<anim name="shoot"      	   anim="Shoot"      fps="24" loop="false" x="379" y="271"/>
+
+</character>

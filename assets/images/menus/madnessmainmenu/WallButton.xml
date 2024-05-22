@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="WallButton.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="wallButton0000" x="0" y="0" width="8" height="415" frameX="-165" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0001" x="0" y="0" width="8" height="415" frameX="-165" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0002" x="0" y="0" width="8" height="415" frameX="-165" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0003" x="0" y="0" width="8" height="415" frameX="-165" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0004" x="8" y="0" width="33" height="415" frameX="-153" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0005" x="41" y="0" width="66" height="415" frameX="-137" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0006" x="107" y="0" width="121" height="415" frameX="-110" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0007" x="228" y="0" width="164" height="415" frameX="-89" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0008" x="392" y="0" width="207" height="415" frameX="-68" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0009" x="599" y="0" width="247" height="415" frameX="-48" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0010" x="0" y="415" width="281" height="415" frameX="-31" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0011" x="281" y="415" width="315" height="415" frameX="-14" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0012" x="281" y="415" width="315" height="415" frameX="-14" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0013" x="596" y="415" width="333" height="415" frameX="-5" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0014" x="596" y="415" width="333" height="415" frameX="-5" frameY="0" frameWidth="339" frameHeight="415"/>
+	<SubTexture name="wallButton0015" x="0" y="830" width="339" height="415"/>
+	<SubTexture name="wallButton0016" x="0" y="830" width="339" height="415"/>
+</TextureAtlas>

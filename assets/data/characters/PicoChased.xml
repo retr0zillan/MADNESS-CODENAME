@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="PicoChased" camy = "-200" y="0" isGF="false" flipX="true" isPlayer="true" sprite="PicoChased">
+	<anim x="125" loop="false" y="159" fps="24" anim="Idle" name="idle"/>
+	<anim x="120" loop="false" y="228" fps="24" anim="Up" name="singUP"/>
+	<anim x="112" loop="false" y="161" fps="24" anim="Left" name="singLEFT"/>
+	<anim x="225" loop="false" y="145" fps="24" anim="Right" name="singRIGHT"/>
+	<anim x="101" loop="false" y="134" fps="24" anim="Down" name="singDOWN"/>
+	<anim x="129" loop="false" y="195" fps="24" anim="MissUp" name="singUPmiss"/>
+	<anim x="192" loop="false" y="157" fps="24" anim="MissLeft" name="singLEFTmiss"/>
+	<anim x="215" loop="false" y="151" fps="24" anim="MissRight" name="singRIGHTmiss"/>
+	<anim x="113" loop="false" y="143" fps="24" anim="MissDown" name="singDOWNmiss"/>
+</character>

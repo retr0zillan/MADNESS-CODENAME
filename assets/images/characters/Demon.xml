@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Demon.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Demon down0000" x="6" y="6" width="957" height="302" frameX="0" frameY="-191" frameWidth="957" frameHeight="503"/>
+	<SubTexture name="Demon down0001" x="969" y="6" width="704" height="355" frameX="-153" frameY="-145" frameWidth="957" frameHeight="503"/>
+	<SubTexture name="Demon down0002" x="1679" y="6" width="801" height="377" frameX="-73" frameY="0" frameWidth="957" frameHeight="503"/>
+	<SubTexture name="Demon down0003" x="2486" y="6" width="852" height="363" frameX="-33" frameY="-2" frameWidth="957" frameHeight="503"/>
+	<SubTexture name="Demon down0004" x="3344" y="6" width="771" height="384" frameX="-93" frameY="-10" frameWidth="957" frameHeight="503"/>
+	<SubTexture name="Demon down0005" x="4121" y="6" width="791" height="380" frameX="-79" frameY="-34" frameWidth="957" frameHeight="503"/>
+	<SubTexture name="Demon down0006" x="4918" y="6" width="782" height="368" frameX="-38" frameY="-34" frameWidth="957" frameHeight="503"/>
+	<SubTexture name="Demon down0007" x="5706" y="6" width="771" height="443" frameX="-71" frameY="-60" frameWidth="957" frameHeight="503"/>
+	<SubTexture name="Demon idle0000" x="6483" y="6" width="737" height="636" frameX="-18" frameY="-94" frameWidth="848" frameHeight="730"/>
+	<SubTexture name="Demon idle0001" x="7226" y="6" width="738" height="602" frameX="-51" frameY="-110" frameWidth="848" frameHeight="730"/>
+	<SubTexture name="Demon idle0002" x="6" y="648" width="742" height="600" frameX="-65" frameY="-93" frameWidth="848" frameHeight="730"/>
+	<SubTexture name="Demon idle0003" x="754" y="648" width="776" height="638" frameX="-28" frameY="-5" frameWidth="848" frameHeight="730"/>
+	<SubTexture name="Demon idle0004" x="1536" y="648" width="843" height="623" frameX="-5" frameY="-16" frameWidth="848" frameHeight="730"/>
+	<SubTexture name="Demon idle0005" x="2385" y="648" width="782" height="665" frameX="0" frameY="0" frameWidth="848" frameHeight="730"/>
+	<SubTexture name="Demon idle0006" x="3173" y="648" width="729" height="651" frameX="-55" frameY="-24" frameWidth="848" frameHeight="730"/>
+	<SubTexture name="Demon idle0007" x="3908" y="648" width="736" height="564" frameX="-56" frameY="-83" frameWidth="848" frameHeight="730"/>
+	<SubTexture name="Demon idle0008" x="4650" y="648" width="725" height="604" frameX="-39" frameY="-57" frameWidth="848" frameHeight="730"/>
+	<SubTexture name="Demon idle0009" x="5381" y="648" width="717" height="617" frameX="-61" frameY="-44" frameWidth="848" frameHeight="730"/>
+	<SubTexture name="Demon idle0010" x="6104" y="648" width="722" height="617" frameX="-26" frameY="-44" frameWidth="848" frameHeight="730"/>
+	<SubTexture name="Demon idle0011" x="6832" y="648" width="720" height="617" frameX="-41" frameY="-44" frameWidth="848" frameHeight="730"/>
+	<SubTexture name="Demon left0000" x="6" y="1319" width="734" height="667" frameX="-21" frameY="-76" frameWidth="811" frameHeight="743"/>
+	<SubTexture name="Demon left0001" x="746" y="1319" width="690" height="637" frameX="-53" frameY="-75" frameWidth="811" frameHeight="743"/>
+	<SubTexture name="Demon left0002" x="1442" y="1319" width="662" height="622" frameX="-7" frameY="-45" frameWidth="811" frameHeight="743"/>
+	<SubTexture name="Demon left0003" x="2110" y="1319" width="702" height="659" frameX="-31" frameY="0" frameWidth="811" frameHeight="743"/>
+	<SubTexture name="Demon left0004" x="2818" y="1319" width="808" height="640" frameX="0" frameY="-13" frameWidth="811" frameHeight="743"/>
+	<SubTexture name="Demon left0005" x="3632" y="1319" width="683" height="620" frameX="-81" frameY="-41" frameWidth="811" frameHeight="743"/>
+	<SubTexture name="Demon left0006" x="4321" y="1319" width="754" height="606" frameX="-57" frameY="-103" frameWidth="811" frameHeight="743"/>
+	<SubTexture name="Demon left0007" x="5081" y="1319" width="748" height="571" frameX="-29" frameY="-105" frameWidth="811" frameHeight="743"/>
+	<SubTexture name="Demon left0008" x="5835" y="1319" width="745" height="602" frameX="-24" frameY="-82" frameWidth="811" frameHeight="743"/>
+	<SubTexture name="Demon left0009" x="6586" y="1319" width="735" height="622" frameX="-16" frameY="-70" frameWidth="811" frameHeight="743"/>
+	<SubTexture name="Demon right0000" x="7327" y="1319" width="785" height="678" frameX="-92" frameY="-118" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Demon right0001" x="6" y="2003" width="835" height="837" frameX="-104" frameY="-18" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Demon right0002" x="847" y="2003" width="757" height="701" frameX="-144" frameY="-86" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Demon right0003" x="1610" y="2003" width="807" height="757" frameX="-85" frameY="0" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Demon right0004" x="2423" y="2003" width="951" height="699" frameX="0" frameY="-13" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Demon right0005" x="3380" y="2003" width="900" height="703" frameX="-44" frameY="-34" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Demon right0006" x="4286" y="2003" width="857" height="705" frameX="-119" frameY="-95" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Demon right0007" x="5149" y="2003" width="859" height="672" frameX="-99" frameY="-112" frameWidth="976" frameHeight="855"/>
+	<SubTexture name="Demon up0000" x="6014" y="2003" width="772" height="668" frameX="-33" frameY="-100" frameWidth="909" frameHeight="786"/>
+	<SubTexture name="Demon up0001" x="6792" y="2003" width="789" height="631" frameX="-65" frameY="-99" frameWidth="909" frameHeight="786"/>
+	<SubTexture name="Demon up0002" x="6" y="2846" width="757" height="663" frameX="-86" frameY="-74" frameWidth="909" frameHeight="786"/>
+	<SubTexture name="Demon up0003" x="769" y="2846" width="829" height="700" frameX="-41" frameY="0" frameWidth="909" frameHeight="786"/>
+	<SubTexture name="Demon up0004" x="1604" y="2846" width="884" height="682" frameX="0" frameY="-13" frameWidth="909" frameHeight="786"/>
+	<SubTexture name="Demon up0005" x="2494" y="2846" width="783" height="739" frameX="-126" frameY="-26" frameWidth="909" frameHeight="786"/>
+	<SubTexture name="Demon up0006" x="3283" y="2846" width="756" height="711" frameX="-70" frameY="-75" frameWidth="909" frameHeight="786"/>
+	<SubTexture name="Demon up0007" x="4045" y="2846" width="726" height="605" frameX="-61" frameY="-159" frameWidth="909" frameHeight="786"/>
+	<SubTexture name="Demon up0008" x="4777" y="2846" width="765" height="650" frameX="-78" frameY="-135" frameWidth="909" frameHeight="786"/>
+</TextureAtlas>

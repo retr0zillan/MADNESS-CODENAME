@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="C_S_characterArt.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="1_BF0000" x="10" y="10" width="628" height="558"/>
+	<SubTexture name="2_Pico0000" x="648" y="10" width="567" height="500"/>
+	<SubTexture name="3_CoolHank0000" x="1225" y="10" width="585" height="532"/>
+	<SubTexture name="4_Rich0000" x="10" y="578" width="447" height="565"/>
+	<SubTexture name="5_Epico0000" x="467" y="578" width="584" height="516"/>
+	<SubTexture name="6_Yesnt0000" x="1061" y="578" width="453" height="505"/>
+	<SubTexture name="7_Cumi0000" x="10" y="1153" width="586" height="507"/>
+	<SubTexture name="8_Julian0000" x="606" y="1153" width="419" height="584"/>
+	<SubTexture name="9_Juan0000" x="1035" y="1153" width="625" height="524"/>
+</TextureAtlas>

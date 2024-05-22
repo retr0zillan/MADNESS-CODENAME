@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false"scale = "1.5"  flipX="false" holdTime="4">
+	<anim name="idle"      anim="Crucified idle"      fps="24" loop="false" x="-280" y="50"/>
+	<anim name="singUP"    anim="Crucified up"    fps="24" loop="false" x="-289" y="37"/>
+	<anim name="singLEFT"  anim="Crucified left"  fps="24" loop="false" x="127" y="-128"/>
+	<anim name="singRIGHT" anim="Crucified right" fps="24" loop="false" x="-380" y="153"/>
+	<anim name="singDOWN"  anim="Crucified down"  fps="24" loop="false" x="-278" y="-218"/>
+</character>

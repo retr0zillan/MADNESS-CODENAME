@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="deadly" folder="stages/deadly/" startCamPosY="12" startCamPosX="406">
+	<sprite name="sky"               x="82" y="-39"   sprite="SKY"       scroll="0.9" scale="1.5"/>
+	<sprite name="floor"               x="82" y="-39"   sprite="Ground"       scroll="0.9" scale="1"/>
+	<sprite name="stones"               x="82" y="574"   sprite="PiedrasFG"       scroll="0.9" scale="1"/>
+
+
+	<girlfriend x = "660" y = "145"/>
+	<dad x = "200" y= "200"/>
+	<boyfriend x = "1300" y = "600" camxoffset = "-200"/>
+	<sprite name="effect"               x="82" y="574"   sprite="effecto"       scroll="0.9" scale="1.5"/>
+
+
+</stage>

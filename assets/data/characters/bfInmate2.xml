@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" x="0" y="0" scale="0.6">
+	<anim name="idle"          anim="InmateIdle"      fps="24" loop="false" x="125"  y="159"/>
+	<anim name="singUP"        anim="InmateArriba"        fps="24" loop="false" x="50" y="200"/>
+	<anim name="singLEFT"      anim="InmateIzq"      fps="24" loop="false" x="113"  y="172"/>
+	<anim name="singRIGHT"     anim="InmateDer"     fps="24" loop="false" x="50" y="157"/>
+	<anim name="singDOWN"      anim="InmateAbajo"      fps="24" loop="false" x="136" y="169"/>
+	<anim name="singUPmiss"    anim="Miss Arriba"    fps="24" loop="false" x="56" y="148"/>
+	<anim name="singLEFTmiss"  anim="Miss Izq"  fps="24" loop="false" x="99"  y="165"/>
+	<anim name="singRIGHTmiss" anim="Miss Der" fps="24" loop="false" x="91" y="176"/>
+	<anim name="singDOWNmiss"  anim="Miss Abajo"  fps="24" loop="false" x="97" y="167"/>
+	<anim name="explodes"  anim="Inmate MicExplodes"  fps="24" loop="false" x="89" y="177"/>
+	<anim name="hurt"  anim="Inmate hurtNote"  fps="24" loop="false" x="59" y="197"/>
+	<anim name="dodgeRIGHT"  anim="AtackInmate der"  fps="24" loop="false" x="62" y="205"/>
+	<anim name="dodgeLEFT"  anim="AtackInmate izq"  fps="24" loop="false" x="156" y="207"/>
+
+</character>

@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.3" name="suffering" folder="stages/suffering/" startCamPosY="366" startCamPosX="681">
+	<sprite name="sky"               x="0" y="0"   sprite="Sky"       scroll="1" scale="1"/>
+	<sprite name="city"               x="92" y="305"   sprite="City"       scroll="1" scale="1"/>
+
+
+	<girlfriend x = "660" y = "145"/>
+	<dad x = "106" y= "-101"/>
+	<boyfriend x = "1000" y = "483"/>
+
+	<sprite name="mountain"               x="0" y="460"   sprite="mountain"       scroll="1" scale="1"/>
+
+</stage>

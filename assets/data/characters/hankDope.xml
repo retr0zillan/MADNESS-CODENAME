@@ -1,0 +1,20 @@
+﻿<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" camy = "-200" camx = "-300"x="300" y="450" scale="1">
+	<anim name="idle"          anim="Idle"      fps="24" loop="false" x="371"  y="194"/>
+	<anim name="singUP"        anim="Up"        fps="24" loop="false" x="349" y="206"/>
+	<anim name="singLEFT"      anim="Left"      fps="24" loop="false" x="419"  y="192"/>
+	<anim name="singRIGHT"     anim="Right"     fps="24" loop="false" x="407" y="149"/>
+	<anim name="singDOWN"      anim="Down"      fps="24" loop="false" x="419" y="164"/>
+	<anim name="Dankidle"  anim="DankIdle"   fps="24" loop="false" x="371" y="194"/>
+	<anim name="DanksingDOWN"  anim="DankDown"   fps="24" loop="false" x="393" y="143"/>
+	<anim name="DanksingLEFT"  anim="DankLeft"   fps="24" loop="false" x="392" y="183"/>
+	<anim name="DanksingUP"  anim="DankUp"   fps="24" loop="false" x="359" y="236"/>
+	<anim name="DanksingRIGHT"  anim="DankRight"   fps="24" loop="false" x="350" y="175"/>
+	<anim name="Iluminatiidle"  anim="IluminatiIdle"   fps="24" loop="false" x="371" y="194"/>
+	<anim name="IluminatisingDOWN"  anim="IluminatiDown"   fps="24" loop="false" x="420" y="164"/>
+	<anim name="IluminatisingLEFT"  anim="IluminatiLeft"   fps="24" loop="false" x="419" y="192"/>
+	<anim name="IluminatisingUP"  anim="IluminatiUp"   fps="24" loop="false" x="350" y="214"/>
+	<anim name="IluminatisingRIGHT"  anim="IluminatiRight"   fps="24" loop="false" x="416" y="149"/>
+	
+	
+</character>

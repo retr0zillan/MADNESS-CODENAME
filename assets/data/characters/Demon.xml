@@ -1,0 +1,11 @@
+﻿<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" camx = "700" camy = "200" x="0" y="0" scale="1.6">
+	<anim name="idle"          anim="Demon idle"      fps="24" loop="false" x="-290"  y="0"/>
+	<anim name="singUP"        anim="Demon up"        fps="24" loop="false" x="-231" y="189"/>
+	<anim name="singLEFT"      anim="Demon left"      fps="24" loop="false" x="-224"  y="-10"/>
+	<anim name="singRIGHT"     anim="Demon right"     fps="24" loop="false" x="-206" y="161"/>
+	<anim name="singDOWN"      anim="Demon down"      fps="24" loop="false" x="-189" y="-226"/>
+	
+	
+	
+</character>

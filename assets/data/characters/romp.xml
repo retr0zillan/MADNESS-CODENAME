@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="romp" camy = "180" y="0" isGF="false" isPlayer="false" sprite="romp">
+	<anim x="-11" loop="false" y="-182" fps="24" anim="Idle" name="idle"/>
+	<anim x="-9" loop="false" y="-160" fps="24" anim="Up" name="singUP"/>
+	<anim x="-99" loop="false" y="-189" fps="24" anim="Left" name="singLEFT"/>
+	<anim x="-1" loop="false" y="-233" fps="24" anim="Right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="-212" fps="24" anim="Down" name="singDOWN"/>
+	<anim x="-78" loop="false" y="-187" fps="24" anim="AngryIdle" name="idle-alt"/>
+	<anim x="14" loop="false" y="-210" fps="24" anim="AngryLeft" name="singLEFT-alt"/>
+	<anim x="9" loop="false" y="-226" fps="24" anim="AngryDown" name="singDOWN-alt"/>
+	<anim x="6" loop="false" y="-102" fps="24" anim="AngryUp" name="singUP-alt"/>
+	<anim x="-103" loop="false" y="-224" fps="24" anim="AngryRight" name="singRIGHT-alt"/>
+	<anim x="-9" loop="false" y="-135" fps="24" anim="transition" name="transition"/>
+</character>

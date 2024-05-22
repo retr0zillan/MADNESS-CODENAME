@@ -1,0 +1,12 @@
+{
+	"displayName": "anger of god",
+	"bpm": 180.0,
+	"icon": "bf",
+	"coopAllowed": false,
+	"opponentModeAllowed": false,
+	"customValues": {
+		"allowedChars":[
+		"everyone"
+		] 
+	}
+}

@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="dad" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="helideimos">
+	<anim x="0" loop="false" y="0" fps="24" anim="Bumping" name="idle"/>
+	<anim x="20" loop="false" y="23" fps="24" anim="ShootingDeimos_Idle" name="shoot-idle"/>
+	<anim x="1" loop="false" y="-17" fps="24" anim="Miss" name="miss"/>
+	<anim x="61" loop="false" y="94" fps="24" anim="Shoot1_ShootingDeimos" name="shootFront"/>
+	<anim x="71" loop="false" y="37" fps="24" anim="Shoot2_ShootingDeimos" name="shootBack"/>
+</character>

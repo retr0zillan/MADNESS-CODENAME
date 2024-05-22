@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.1" name="torture" folder="stages/torture/" startCamPosY="366" startCamPosX="700">
+	<sprite name="cielo"               x="0" y="0"   sprite="TortureSky"       scroll="0.9" scale = "1.1"/>
+	<sprite name="front"      x="0" y="0"   sprite="TortureMountain"  scroll="0.9" scale = "1"/>
+	
+	<girlfriend x = "650" y = "220"/>
+	<dad x = "532" y = "-337"/>
+	<boyfriend x = "415" y = "420"/>
+	<sprite name="filter"      x="-8" y="4"   sprite="TortureEffect"  scroll="0.9" scale = "1.4"/>
+
+</stage>

@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Yesnt" y="0" isGF="false" flipX="true" isPlayer="true" sprite="Yesnt">
+	<anim x="125" loop="false" y="159" fps="24" anim="Idle" name="idle"/>
+	<anim x="129" loop="false" y="178" fps="24" anim="Up" name="singUP"/>
+	<anim x="136" loop="false" y="151" fps="24" anim="Left" name="singLEFT"/>
+	<anim x="111" loop="false" y="148" fps="24" anim="Right" name="singRIGHT"/>
+	<anim x="117" loop="false" y="147" fps="24" anim="Down" name="singDOWN"/>
+	<anim x="146" loop="false" y="180" fps="24" anim="MissUp" name="singUPmiss"/>
+	<anim x="169" loop="false" y="152" fps="24" anim="MissLeft" name="singLEFTmiss"/>
+	<anim x="125" loop="false" y="148" fps="24" anim="MissRight" name="singRIGHTmiss"/>
+	<anim x="153" loop="false" y="148" fps="24" anim="MissDown" name="singDOWNmiss"/>
+	<anim x="1011" loop="false" y="246" fps="24" anim="mecanic" name="laser"/>
+</character>

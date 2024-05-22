@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character icon="gruntleft" isPlayer="true"  camx = "200" flipX="true" x="0" y="0" sprite = "grunts">
+	<anim name="idle"          anim="idle"      fps="24" loop="false" x="633"  y="100"/>
+	<anim name="singUP"        anim="grunt_up"        fps="24" loop="false" x="611" y="165"/>
+	<anim name="singLEFT"      anim="grunt_left"      fps="24" loop="false" x="695"  y="104"/>
+	<anim name="singRIGHT"     anim="grunt_right"     fps="24" loop="false" x="613" y="95"/>
+	<anim name="singDOWN"      anim="grunt_down"      fps="24" loop="false" x="590" y="0"/>
+	<anim name="singUPmiss"    anim="miss_up"    fps="24" loop="false" x="615" y="212"/>
+	<anim name="singLEFTmiss"  anim="miss_left"  fps="24" loop="false" x="686"  y="202"/>
+	<anim name="singRIGHTmiss" anim="miss_right" fps="24" loop="false" x="616" y="172"/>
+	<anim name="singDOWNmiss"  anim="miss_down"  fps="24" loop="false" x="589" y="51"/>
+
+</character>

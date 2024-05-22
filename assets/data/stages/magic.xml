@@ -1,0 +1,31 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.5" name="magic" folder="stages/magic/" startCamPosY="341" startCamPosX="724">
+	<sprite name="bg"               x="-2170" y="-579"   sprite="magician bg"       scroll="1" scale="1"/>
+
+	<sprite name = "guillo" x = "209" y = "46" sprite = "Guillotina" scroll = "1" alpha = "1" >
+	<anim name = "static" anim = "Guillotina static" loop = "false"/>
+	<anim name = "falls" anim = "Guillotina falls" loop = "false"/>
+	<anim name = "hole" anim = "hole" loop = "true"/>
+	</sprite>
+
+	<sprite name = "speaker" x = "1268" y = "4" sprite = "magician speaker" scroll = "0.9" alpha = "1" >	
+	<anim name = "bump" anim = "speaker" loop = "false"/>
+	</sprite>
+
+	<sprite name = "speaker2" x = "-268" y = "2" sprite = "magician speaker" scroll = "0.9" alpha = "1">	
+	<anim name = "bump" anim = "speaker" loop = "false"/>
+	</sprite>
+
+	<sprite name="chairs"               x="-1878" y="401"   sprite="chairs"       scroll="0.9" scale="1"/>
+
+
+	<girlfriend x = "660" y = "145"/>
+	<dad x = "828" y= "70"/>
+	<boyfriend x = "555" y = "900"/>
+
+	
+	<sprite name = "publicP" x = "-838" y = "879" sprite = "public" scroll = "0.9" alpha = "1" >	
+	<anim name = "scared" anim = "impact0" loop = "true"/>
+	<anim name = "bump" anim = "public0" loop = "false"/>
+	</sprite>
+</stage>

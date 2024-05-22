@@ -1,0 +1,12 @@
+{
+	"displayName": "20s called back",
+	"bpm": 140.0,
+	"icon": "bf",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+		"customValues": {
+		"allowedChars":[
+		"everyone"
+		] 
+	}
+}

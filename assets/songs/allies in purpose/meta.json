@@ -1,0 +1,12 @@
+{
+	"displayName": "allies in purpose",
+	"bpm": 138.0,
+	"icon": "bf",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+		"customValues": {
+		"allowedChars":[
+		"everyone"
+		] 
+	}
+}

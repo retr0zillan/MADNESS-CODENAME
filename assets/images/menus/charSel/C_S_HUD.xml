@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="C_S_HUD.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Done0000" x="10" y="10" width="337" height="158"/>
+	<SubTexture name="Icon_1_BF0000" x="357" y="10" width="162" height="155" frameX="-18" frameY="-18" frameWidth="198" frameHeight="191"/>
+	<SubTexture name="Icon_1_BF_selected0001" x="529" y="10" width="198" height="191"/>
+	<SubTexture name="Icon_2_Pico0000" x="737" y="10" width="132" height="151" frameX="-23" frameY="-18" frameWidth="188" frameHeight="187"/>
+	<SubTexture name="Icon_2_Pico_selected0001" x="879" y="10" width="188" height="187"/>
+	<SubTexture name="Icon_3_CoolHank0000" x="1077" y="10" width="142" height="170" frameX="-33" frameY="-18" frameWidth="193" frameHeight="206"/>
+	<SubTexture name="Icon_3_CoolHank_selected0001" x="1229" y="10" width="193" height="206"/>
+	<SubTexture name="Icon_4_Rich0000" x="1432" y="10" width="134" height="132" frameX="-23" frameY="-24" frameWidth="188" frameHeight="174"/>
+	<SubTexture name="Icon_4_Rich_selected0001" x="1576" y="10" width="188" height="174"/>
+	<SubTexture name="Icon_5_Epico0000" x="1774" y="10" width="127" height="156" frameX="-29" frameY="-18" frameWidth="188" frameHeight="192"/>
+	<SubTexture name="Icon_5_Epico_selected0001" x="10" y="226" width="188" height="192"/>
+	<SubTexture name="Icon_6_Yesnt0000" x="208" y="226" width="119" height="145" frameX="-23" frameY="-23" frameWidth="163" frameHeight="186"/>
+	<SubTexture name="Icon_6_Yesnt_selected0001" x="337" y="226" width="163" height="186"/>
+	<SubTexture name="Icon_7_Cumi0000" x="510" y="226" width="143" height="143" frameX="-26" frameY="-26" frameWidth="188" frameHeight="187"/>
+	<SubTexture name="Icon_7_Cumi_selected0001" x="663" y="226" width="188" height="187"/>
+	<SubTexture name="Icon_8_Julian0000" x="861" y="226" width="127" height="157" frameX="-31" frameY="-18" frameWidth="188" frameHeight="193"/>
+	<SubTexture name="Icon_8_Julian_selected0001" x="998" y="226" width="188" height="193"/>
+	<SubTexture name="Icon_9_Juan0000" x="1196" y="226" width="132" height="146" frameX="-28" frameY="-22" frameWidth="188" frameHeight="186"/>
+	<SubTexture name="Icon_9_Juan_selected0001" x="1338" y="226" width="188" height="186"/>
+	<SubTexture name="Locked Character0000" x="1536" y="226" width="114" height="101"/>
+	<SubTexture name="SelectCharacter0000" x="10" y="429" width="497" height="164"/>
+	<SubTexture name="Stats0000" x="517" y="429" width="331" height="280"/>
+</TextureAtlas>

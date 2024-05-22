@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="godly" folder="stages/godly/" startCamPosY="416" startCamPosX="840">
+	<sprite name="sky"               x="0" y="0"   sprite="Sky"       scroll="0.9" scale = "1"/>
+	<sprite name="Buildingsy"               x="0" y="0"   sprite="Buildings"       scroll="0.9" scale = "1"/>
+	<sprite name="Floor"               x="0" y="0"   sprite="Floor"       scroll="0.9" scale = "1"/>
+
+	<girlfriend x = "650" y = "220"/>
+	<dad x = "345" y = "95" camyoffset = "-150"/>
+	<boyfriend x = "1069" y = "540" camyoffset = "-150"/>
+	<sprite name="filter"      x="0" y="0"   sprite="FG (Hard light)"  scroll="0.9" scale = "1"/>
+
+</stage>

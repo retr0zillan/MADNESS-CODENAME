@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="diaBox.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Text Idle0000" x="10" y="714" width="1280" height="720"/>
+	<SubTexture name="Text Intro0000" x="10" y="10" width="1280" height="557" frameX="0" frameY="-161" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Text Intro0001" x="1300" y="10" width="1280" height="649" frameX="0" frameY="-70" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Text Intro0002" x="2590" y="10" width="1280" height="694" frameX="0" frameY="-26" frameWidth="1280" frameHeight="720"/>
+	<SubTexture name="Text Intro0003" x="10" y="714" width="1280" height="720"/>
+</TextureAtlas>

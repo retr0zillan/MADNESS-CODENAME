@@ -1,0 +1,12 @@
+{
+	"displayName": "showstopper",
+	"bpm": 136.0,
+	"icon": "bf",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+	"customValues": {
+		"allowedChars":[
+		"Bf"
+		] 
+	}
+}

@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="toture_smol" camx = "-500" camy = "-200"y="0" isGF="false" flipX="true" isPlayer="true" sprite="toture_smol">
+	<anim x="371" loop="true" y="194" fps="24" anim="Idle" name="idle"/>
+	<anim x="385" loop="false" y="261" fps="24" anim="Up" name="singUP"/>
+	<anim x="185" loop="false" y="173" fps="24" anim="left" name="singLEFT"/>
+	<anim x="474" loop="false" y="235" fps="24" anim="Right" name="singRIGHT"/>
+	<anim x="375" loop="false" y="174" fps="24" anim="Down" name="singDOWN"/>
+	<anim x="254" loop="true" y="178" fps="24" anim="MissLeft" name="singLEFTmiss"/>
+	<anim x="446" loop="false" y="139" fps="24" anim="MissDown" name="singDOWNmiss"/>
+	<anim x="476" loop="false" y="268" fps="24" anim="MissUp" name="singUPmiss"/>
+	<anim x="504" loop="false" y="238" fps="24" anim="MissRight" name="singRIGHTmiss"/>
+</character>

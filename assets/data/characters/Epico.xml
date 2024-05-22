@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" x="0" y="0" color = "#ffdf7f" scale="1" sprite = "Epico">
+	<anim name="idle"          anim="epico idle"      fps="24" loop="false" x="-5"  y="0"/>
+	<anim name="singUP"        anim="epico up0"        fps="24" loop="false" x="-8" y="27"/>
+	<anim name="singLEFT"      anim="epico left0"      fps="24" loop="false" x="10"  y="-8"/>
+	<anim name="singRIGHT"     anim="epico rigth0"     fps="24" loop="false" x="-5" y="-8"/>
+	<anim name="singDOWN"      anim="epico down0"      fps="24" loop="false" x="-7" y="-10"/>
+	<anim name="singUPmiss"    anim="epico up fall"    fps="24" loop="false" x="-15" y="59"/>
+	<anim name="singLEFTmiss"  anim="epico left fall"  fps="24" loop="false" x="-13"  y="41"/>
+	<anim name="singRIGHTmiss" anim="epico rigth fall" fps="24" loop="false" x="-11" y="23"/>
+	<anim name="singDOWNmiss"  anim="epico down fall"  fps="24" loop="false" x="-7" y="23"/>
+	<anim name="heal"  anim="epico extra "  fps="24" loop="false" x="-7" y="23"/>
+
+</character>

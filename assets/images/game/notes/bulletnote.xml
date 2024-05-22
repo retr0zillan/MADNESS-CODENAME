@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bulletnote.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="green0000" x="6" y="6" width="154" height="161"/>
+	<SubTexture name="red0001" x="6" y="6" width="154" height="161"/>
+	<SubTexture name="blue0002" x="6" y="6" width="154" height="161"/>
+	<SubTexture name="purple0003" x="6" y="6" width="154" height="161"/>
+	
+</TextureAtlas>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TimingBar.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BULLETSLEFT0000" x="6" y="6" width="143" height="23"/>
+	<SubTexture name="BULLETSLEFT0001" x="6" y="6" width="143" height="23"/>
+	<SubTexture name="BULLETSLEFT0002" x="6" y="6" width="143" height="23"/>
+	<SubTexture name="BULLETSLEFT0003" x="6" y="6" width="143" height="23"/>
+	<SubTexture name="BULLETSLEFT0004" x="6" y="6" width="143" height="23"/>
+	<SubTexture name="BULLETSLEFT0005" x="6" y="6" width="143" height="23"/>
+	<SubTexture name="BULLETSLEFT0006" x="6" y="6" width="143" height="23"/>
+	<SubTexture name="BULLETSLEFT0007" x="6" y="6" width="143" height="23"/>
+	<SubTexture name="BULLETSLEFT0008" x="6" y="6" width="143" height="23"/>
+	<SubTexture name="BULLETSLEFT0009" x="6" y="6" width="143" height="23"/>
+	<SubTexture name="BULLETSLEFT0010" x="6" y="6" width="143" height="23"/>
+	<SubTexture name="BULLETSLEFT0011" x="6" y="6" width="143" height="23"/>
+	<SubTexture name="TIMINGBARhit0000" x="6" y="35" width="484" height="125"/>
+	<SubTexture name="TIMINGBARhit0001" x="6" y="166" width="484" height="114" frameX="0" frameY="-6" frameWidth="484" frameHeight="125"/>
+	<SubTexture name="TIMINGBARhit0002" x="6" y="286" width="484" height="104" frameX="0" frameY="-11" frameWidth="484" frameHeight="125"/>
+	<SubTexture name="TIMINGBARhit0003" x="6" y="396" width="484" height="102" frameX="0" frameY="-13" frameWidth="484" frameHeight="125"/>
+	<SubTexture name="TIMINGBARhit0004" x="6" y="504" width="484" height="102" frameX="0" frameY="-13" frameWidth="484" frameHeight="125"/>
+	<SubTexture name="TIMINGBARhit0005" x="6" y="612" width="484" height="102" frameX="0" frameY="-13" frameWidth="484" frameHeight="125"/>
+	<SubTexture name="TIMINGBARnote0000" x="6" y="720" width="35" height="47"/>
+	<SubTexture name="TIMINGBARregular0000" x="6" y="773" width="484" height="102"/>
+</TextureAtlas>

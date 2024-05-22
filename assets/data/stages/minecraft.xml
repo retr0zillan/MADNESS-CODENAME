@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="minecraft" folder="stages/minecraft/" startCamPosY="437" startCamPosX="742">
+	<sprite name="bg"               x="-215" y="-89"   sprite="Flatland"       scroll="1" scale="1.2"/>
+
+	<girlfriend x = "660" y = "145"/>
+	<dad x = "100" y= "100"/>
+	<boyfriend x = "770" y = "450"/>
+</stage>

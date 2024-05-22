@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.7" name="incident" folder="stages/incident/" startCamPosY="399" startCamPosX="-1">
+	<sprite name="sky"               x="82" y="-39"   sprite="sky"       scroll="1.0" scale="2"/>
+	<sprite name="mountain"               x="82" y="-39"   sprite="Bg"       scroll="1.0" scale="2"/>
+	<sprite name="floor"               x="82" y="574"   sprite="Floor"       scroll="1.0" scale="2"/>
+
+
+	<girlfriend x = "660" y = "145"/>
+	<dad x = "100" y= "-251"/>
+	<boyfriend x = "830" y = "1199"/>
+
+
+</stage>

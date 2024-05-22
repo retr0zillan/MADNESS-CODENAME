@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.1" name="apotheosis" folder="stages/apotheosis/" startCamPosY="235" startCamPosX="-618">
+	<sprite name="cielo"               x="-1552" y="-234"   sprite="CieloEx"       scroll="0.9" scale = "1"/>
+	<sprite name="front"      x="-1696" y="-347"   sprite="FondoEx"  scroll="0.9" scale = "1"/>
+		<sprite name="red"      x="-107" y="29"   sprite="Rojitos-FondoEx"  scale = "1" scroll = "0.9">
+			<anim name = "idle" anim = "Rojitos-FondoEx" loop = "true"/>
+			
+	</sprite>
+	<girlfriend x = "650" y = "220"/>
+	<dad x = "-598" y = "-242"/>
+	<boyfriend x = "-1300" y = "-10"/>
+	
+</stage>

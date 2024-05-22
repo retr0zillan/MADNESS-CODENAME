@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" camy = "-100"flipX="true" x="0" y="0" sprite = "Grunt_Hand">
+	<anim name="idle"          anim="idle"      fps="24" loop="false" x="153"  y="-140"/>
+	<anim name="singUP"        anim="up"        fps="24" loop="false" x="251" y="-95"/>
+	<anim name="singLEFT"      anim="left"      fps="24" loop="false" x="465"  y="-136"/>
+	<anim name="singRIGHT"     anim="right"     fps="24" loop="false" x="103" y="-155"/>
+	<anim name="singDOWN"      anim="down"      fps="24" loop="false" x="150" y="-210"/>
+	<anim name="intro"      anim="Intro"      fps="24" loop="false" x="200" y="30"/>
+
+</character>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="C_S_characterTexts.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="TEXT_1_bf0000" x="10" y="10" width="273" height="280"/>
+	<SubTexture name="TEXT_2_pico0000" x="293" y="10" width="294" height="284"/>
+	<SubTexture name="TEXT_3_coolhank0000" x="597" y="10" width="294" height="297"/>
+	<SubTexture name="TEXT_4_rich0000" x="10" y="317" width="262" height="312"/>
+	<SubTexture name="TEXT_5_epico0000" x="282" y="317" width="286" height="314"/>
+	<SubTexture name="TEXT_6_yesnt0000" x="578" y="317" width="262" height="292"/>
+	<SubTexture name="TEXT_7_cumi0000" x="10" y="641" width="294" height="300"/>
+	<SubTexture name="TEXT_8_julian0000" x="314" y="641" width="290" height="297"/>
+	<SubTexture name="TEXT_9_juan0000" x="614" y="641" width="298" height="280"/>
+</TextureAtlas>

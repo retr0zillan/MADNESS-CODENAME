@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" x="0" y="0" scale="1" color = "#d22323 " sprite = "Coolhank">
+	<anim name="idle"          anim="Idle"      fps="24" loop="true" x="125"  y="159"/>
+	<anim name="singUP"        anim="Up"        fps="24" loop="false" x="117" y="227"/>
+	<anim name="singLEFT"      anim="Left"      fps="24" loop="false" x="349"  y="170"/>
+	<anim name="singRIGHT"     anim="Right"     fps="24" loop="false" x="90" y="140"/>
+	<anim name="singDOWN"      anim="Down"      fps="24" loop="false" x="105" y="138"/>
+	<anim name="singUPmiss"    anim="MissUp"    fps="24" loop="false" x="186" y="227"/>
+	<anim name="singLEFTmiss"  anim="MissLeft"  fps="24" loop="false" x="349"  y="168"/>
+	<anim name="singRIGHTmiss" anim="MissRight" fps="24" loop="false" x="177" y="140"/>
+	<anim name="singDOWNmiss"  anim="MissDown"  fps="24" loop="false" x="206" y="136"/>
+	<anim name="punch"  anim="Punch"  fps="24" loop="false" x="311" y="180"/>
+
+</character>

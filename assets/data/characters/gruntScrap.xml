@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" camy = "200" x="0" y="0" scale="1" sprite = "ScrapeGrunt">
+	<anim name="idle"          anim="OldIdle"      fps="24" loop="false" x="-94"  y="-153"/>
+	<anim name="singUP"        anim="OldUp"        fps="24" loop="false" x="-104" y="-133"/>
+	<anim name="singLEFT"      anim="OldLeft"      fps="24" loop="false" x="-113"  y="-187"/>
+	<anim name="singRIGHT"     anim="OldRight"     fps="24" loop="false" x="-134" y="-147"/>
+	<anim name="singDOWN"      anim="OldDown"      fps="24" loop="false" x="-128" y="-241"/>
+	<anim name="Laugh"      anim="Laugh"      fps="24" loop="false" x="-113" y="-25"/>
+
+</character>

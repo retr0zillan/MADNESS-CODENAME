@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Torture" y="0" isGF="false" camy = "280" camx = "-270" isPlayer="false" sprite="Torture">
+	<anim x="-11" loop="false" y="-182" fps="24" anim="Idle" name="idle"/>
+	<anim x="-163" loop="false" y="-110" fps="24" anim="Up" name="singUP"/>
+	<anim x="34" loop="false" y="-181" fps="24" anim="Left" name="singLEFT"/>
+	<anim x="-92" loop="false" y="-200" fps="24" anim="Right" name="singRIGHT"/>
+	<anim x="-56" loop="false" y="-163" fps="24" anim="Down" name="singDOWN"/>
+</character>

@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" camy = "200" x="0" y="0" scale="0.6">
+	<anim name="idle"          anim="Idle"      fps="24" loop="false" x="-76"  y="-194"/>
+	<anim name="singUP"        anim="Up"        fps="24" loop="false" x="76" y="-129"/>
+	<anim name="singLEFT"      anim="Left"      fps="24" loop="false" x="139"  y="-179"/>
+	<anim name="singRIGHT"     anim="Right"     fps="24" loop="false" x="41" y="-217"/>
+	<anim name="singDOWN"      anim="Down"      fps="24" loop="false" x="31" y="-206"/>
+	<anim name="singUPmiss"    anim="MissUp"    fps="24" loop="false" x="-1" y="-148"/>
+	<anim name="singLEFTmiss"  anim="MissLeft"  fps="24" loop="false" x="164"  y="-176"/>
+	<anim name="singRIGHTmiss" anim="MissRight" fps="24" loop="false" x="57" y="-232"/>
+	<anim name="singDOWNmiss"  anim="MissDown"  fps="24" loop="false" x="23" y="-265"/>
+
+</character>

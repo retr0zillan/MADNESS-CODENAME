@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bulletnote.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Warning note splash0000" x="6" y="6" width="154" height="161" frameX="-59" frameY="-37" frameWidth="289" frameHeight="285"/>
+	<SubTexture name="Warning note splash0001" x="166" y="6" width="217" height="214" frameX="-45" frameY="-21" frameWidth="289" frameHeight="285"/>
+	<SubTexture name="Warning note splash0002" x="389" y="6" width="254" height="254" frameX="-35" frameY="-1" frameWidth="289" frameHeight="285"/>
+	<SubTexture name="Warning note splash0003" x="649" y="6" width="233" height="261" frameX="-16" frameY="-4" frameWidth="289" frameHeight="285"/>
+	<SubTexture name="Warning note splash0004" x="6" y="273" width="255" height="285" frameX="0" frameY="0" frameWidth="289" frameHeight="285"/>
+</TextureAtlas>

@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.48" name="clown1" folder="stages/clown/" startCamPosY="242" startCamPosX="286">
+	<sprite name="cielo"               x="-2159" y="-996"   sprite="cielo"       scroll="1.2" scale = "1.1"/>
+	<sprite name="mountBuild"      x="-2131" y="-994"   sprite="montApar"       scroll="1.2" scale = "1.1"/>
+	<sprite name="edif"      x="-1819" y="-854"   sprite="etesech"       scroll="1.2" scale = "1.1"/>
+	<sprite name="medium"      x="-1862" y="-863"   sprite="coso de la mitad"       scroll="1.1" scale = "1.1"/>
+
+	<sprite name="front"      x="-1909" y="-882"   sprite="alfretee donde estan parados"       scroll="0.9" scale = "1.1"/>
+	<sprite name="car"      x="1500" y="112"   sprite="smokeRight"  scale = "1.1" alpha = ".88">
+			<anim name = "idle" anim = "SmokeRight instance" loop = "true"/>
+			
+	</sprite>
+	<girlfriend x = "650" y = "220"/>
+	<dad x = "-800" y = "20" camxoffset = "10" camyoffset = "191"/>
+	<boyfriend x = "770" y = "400" camxoffset = "-500" camyoffset = "-113"/>
+	<sprite name="filter"      x="-1620" y="-828"   sprite="filtro rojo"       scroll="0.9" scale = "1.5"/>
+</stage>

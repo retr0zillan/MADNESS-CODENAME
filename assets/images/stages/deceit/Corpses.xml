@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Corpses.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Corpses10000" x="6" y="6" width="631" height="565"/>
+	<SubTexture name="Corpses20000" x="6" y="577" width="1525" height="1436"/>
+</TextureAtlas>

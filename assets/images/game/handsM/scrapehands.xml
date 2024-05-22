@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="scrapehands.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Catching0000" x="20" y="20" width="114" height="202" frameX="-37" frameY="-63" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0001" x="20" y="20" width="114" height="202" frameX="-37" frameY="-63" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0002" x="154" y="20" width="124" height="204" frameX="-31" frameY="-62" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0003" x="154" y="20" width="124" height="204" frameX="-31" frameY="-62" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0004" x="298" y="20" width="121" height="210" frameX="-29" frameY="-59" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0005" x="439" y="20" width="146" height="299" frameX="-8" frameY="-9" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0006" x="605" y="20" width="128" height="293" frameX="-13" frameY="-6" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0007" x="753" y="20" width="146" height="284" frameX="0" frameY="-12" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0008" x="919" y="20" width="127" height="317" frameX="-10" frameY="0" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0009" x="919" y="20" width="127" height="317" frameX="-10" frameY="0" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0010" x="1066" y="20" width="149" height="318" frameX="-5" frameY="0" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0011" x="1066" y="20" width="149" height="318" frameX="-5" frameY="0" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0012" x="1235" y="20" width="142" height="290" frameX="-19" frameY="-20" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0013" x="1397" y="20" width="160" height="236" frameX="-47" frameY="-40" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0014" x="1577" y="20" width="189" height="188" frameX="-72" frameY="-55" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0015" x="1786" y="20" width="191" height="194" frameX="-70" frameY="-51" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0016" x="1997" y="20" width="180" height="210" frameX="-68" frameY="-39" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Catching0017" x="2197" y="20" width="91" height="103" frameX="-157" frameY="-126" frameWidth="261" frameHeight="318"/>
+	<SubTexture name="Dies0000" x="2308" y="20" width="178" height="210" frameX="-189" frameY="-149" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0001" x="2506" y="20" width="185" height="298" frameX="-148" frameY="-89" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0002" x="2711" y="20" width="166" height="371" frameX="-115" frameY="-68" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0003" x="2897" y="20" width="158" height="396" frameX="-114" frameY="-54" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0004" x="3075" y="20" width="165" height="397" frameX="-110" frameY="-53" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0005" x="3260" y="20" width="163" height="380" frameX="-116" frameY="-61" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0006" x="3443" y="20" width="157" height="385" frameX="-115" frameY="-59" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0007" x="3620" y="20" width="162" height="382" frameX="-114" frameY="-60" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0008" x="3802" y="20" width="164" height="374" frameX="-106" frameY="-67" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0009" x="20" y="437" width="168" height="386" frameX="-113" frameY="-57" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0010" x="208" y="437" width="159" height="371" frameX="-117" frameY="-63" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0011" x="387" y="437" width="159" height="388" frameX="-113" frameY="-60" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0012" x="566" y="437" width="184" height="385" frameX="-94" frameY="-57" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0013" x="770" y="437" width="146" height="373" frameX="-123" frameY="-66" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0014" x="936" y="437" width="168" height="395" frameX="-109" frameY="-53" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0015" x="1124" y="437" width="188" height="351" frameX="-99" frameY="-80" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0016" x="1332" y="437" width="159" height="380" frameX="-142" frameY="-37" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0017" x="1511" y="437" width="328" height="350" frameX="0" frameY="-108" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0018" x="1859" y="437" width="187" height="396" frameX="-135" frameY="0" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0019" x="2066" y="437" width="121" height="344" frameX="-122" frameY="-136" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Dies0020" x="2207" y="437" width="0" height="0" frameX="0" frameY="0" frameWidth="367" frameHeight="480"/>
+	<SubTexture name="Idle0000" x="2227" y="437" width="232" height="478" frameX="-1" frameY="-15" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0001" x="2479" y="437" width="213" height="474" frameX="-22" frameY="-3" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0002" x="2712" y="437" width="211" height="477" frameX="-22" frameY="-1" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0003" x="2943" y="437" width="210" height="415" frameX="-19" frameY="0" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0004" x="3173" y="437" width="234" height="422" frameX="-1" frameY="-17" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0005" x="3427" y="437" width="230" height="463" frameX="0" frameY="-14" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0006" x="3677" y="437" width="232" height="477" frameX="0" frameY="-12" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0007" x="20" y="935" width="241" height="459" frameX="0" frameY="-32" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0008" x="281" y="935" width="229" height="478" frameX="-1" frameY="-15" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0009" x="530" y="935" width="208" height="474" frameX="-22" frameY="-3" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0010" x="758" y="935" width="225" height="477" frameX="-22" frameY="-1" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0011" x="1003" y="935" width="211" height="415" frameX="-19" frameY="0" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0012" x="1234" y="935" width="232" height="422" frameX="-1" frameY="-17" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0013" x="1486" y="935" width="235" height="463" frameX="0" frameY="-14" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0014" x="1741" y="935" width="230" height="477" frameX="0" frameY="-12" frameWidth="247" frameHeight="493"/>
+	<SubTexture name="Idle0015" x="1991" y="935" width="0" height="0" frameX="0" frameY="0" frameWidth="247" frameHeight="493"/>
+</TextureAtlas>

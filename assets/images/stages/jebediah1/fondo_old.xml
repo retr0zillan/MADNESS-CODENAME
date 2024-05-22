@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fondo old.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 4 instance 10000" x="0" y="0" width="2921" height="1268"/>
+	<SubTexture name="Symbol 4 instance 10001" x="0" y="0" width="2921" height="1268"/>
+	<SubTexture name="Symbol 4 instance 10002" x="2921" y="0" width="2921" height="1268"/>
+	<SubTexture name="Symbol 4 instance 10003" x="0" y="1268" width="2921" height="1268"/>
+	<SubTexture name="Symbol 4 instance 10004" x="2921" y="1268" width="2921" height="1268"/>
+	<SubTexture name="Symbol 4 instance 10005" x="0" y="2536" width="2921" height="1268"/>
+	<SubTexture name="Symbol 4 instance 10006" x="2921" y="2536" width="2921" height="1268"/>
+	<SubTexture name="Symbol 4 instance 10007" x="2921" y="2536" width="2921" height="1268"/>
+	<SubTexture name="Symbol 4 instance 10008" x="2921" y="2536" width="2921" height="1268"/>
+	<SubTexture name="Symbol 4 instance 10009" x="2921" y="2536" width="2921" height="1268"/>
+</TextureAtlas>

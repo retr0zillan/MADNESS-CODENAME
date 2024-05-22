@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="600" icon="Downditor" camy = "-300" camx = "-400" y="500" isGF="false" scale="1.7" isPlayer="false" sprite="Downditor">
+	<anim x="833" loop="false" y="653" fps="30" anim="audi idle" name="idle"/>
+	<anim x="859" loop="false" y="710" fps="30" anim="audi up" name="singUP"/>
+	<anim x="865" loop="false" y="631" fps="30" anim="audi left" name="singLEFT"/>
+	<anim x="750" loop="false" y="591" fps="30" anim="audi right" name="singRIGHT"/>
+	<anim x="859" loop="false" y="655" fps="30" anim="audi down" name="singDOWN"/>
+</character>

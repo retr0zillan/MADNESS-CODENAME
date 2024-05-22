@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="subWallButton.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="appear0000" x="0" y="0" width="1" height="190" frameX="-137" frameY="0" frameWidth="274" frameHeight="190"/>
+	<SubTexture name="appear0001" x="0" y="0" width="1" height="190" frameX="-137" frameY="0" frameWidth="274" frameHeight="190"/>
+	<SubTexture name="appear0002" x="0" y="0" width="1" height="190" frameX="-137" frameY="0" frameWidth="274" frameHeight="190"/>
+	<SubTexture name="appear0003" x="0" y="0" width="1" height="190" frameX="-137" frameY="0" frameWidth="274" frameHeight="190"/>
+	<SubTexture name="appear0004" x="1" y="0" width="5" height="190" frameX="-135" frameY="0" frameWidth="274" frameHeight="190"/>
+	<SubTexture name="appear0005" x="6" y="0" width="21" height="190" frameX="-127" frameY="0" frameWidth="274" frameHeight="190"/>
+	<SubTexture name="appear0006" x="27" y="0" width="37" height="190" frameX="-119" frameY="0" frameWidth="274" frameHeight="190"/>
+	<SubTexture name="appear0007" x="64" y="0" width="92" height="190" frameX="-92" frameY="0" frameWidth="274" frameHeight="190"/>
+	<SubTexture name="appear0008" x="156" y="0" width="152" height="190" frameX="-62" frameY="0" frameWidth="274" frameHeight="190"/>
+	<SubTexture name="appear0009" x="308" y="0" width="181" height="190" frameX="-48" frameY="0" frameWidth="274" frameHeight="190"/>
+	<SubTexture name="appear0010" x="0" y="190" width="238" height="190" frameX="-20" frameY="0" frameWidth="274" frameHeight="190"/>
+	<SubTexture name="appear0011" x="238" y="190" width="274" height="190"/>
+</TextureAtlas>

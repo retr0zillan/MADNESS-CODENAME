@@ -1,0 +1,12 @@
+{
+	"displayName": "code deviation",
+	"bpm": 99.0,
+	"icon": "bf",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+	"customValues": {
+		"allowedChars":[
+		"everyone"
+		] 
+	}
+}

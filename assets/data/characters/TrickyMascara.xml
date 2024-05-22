@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="TrickyMascara" y="0" isGF="false" scale="1.8" isPlayer="false" sprite="Tricky_Tricked_">
+	<anim x="-76" loop="false" y="-194" fps="24" anim="idle-mask  instancia " name="idle"/>
+	<anim x="290" loop="false" y="35" fps="24" anim="up-mask instancia " name="singUP"/>
+	<anim x="211" loop="false" y="11" fps="24" anim="left-mask instancia " name="singLEFT"/>
+	<anim x="80" loop="false" y="-42" fps="24" anim="right-mask instancia " name="singRIGHT"/>
+	<anim x="-9" loop="false" y="-40" fps="24" anim="down-mask instancia " name="singDOWN"/>
+	<anim x="123" loop="false" y="33" fps="24" anim="Scream  instancia " name="scream"/>
+	<anim x="-111" loop="false" y="-194" fps="24" anim="idle instancia " name="idle-alt"/>
+	<anim x="-39" loop="false" y="-186" fps="24" anim="up instancia " name="singUP-alt"/>
+	<anim x="-10" loop="false" y="-246" fps="24" anim="left instancia " name="singLEFT-alt"/>
+	<anim x="-157" loop="false" y="-252" fps="24" anim="right instancia " name="singRIGHT-alt"/>
+	<anim x="-86" loop="false" y="-270" fps="24" anim="down instancia " name="singDOWN-alt"/>
+</character>

@@ -1,0 +1,17 @@
+﻿<!DOCTYPE codename-engine-character>
+<character isPlayer="false" camx = "-260" camy = "-70"flipX="false" x="0" y="0" scale="0.8">
+	<anim name="idle"          anim="Idle"      fps="24" loop="true" x="41"  y="-140"/>
+	<anim name="singUP"        anim="Up"        fps="24" loop="false" x="93" y="-108"/>
+	<anim name="singLEFT"      anim="left"      fps="24" loop="false" x="135"  y="-181"/>
+	<anim name="singRIGHT"     anim="Right"     fps="24" loop="false" x="14" y="-98"/>
+	<anim name="singDOWN"      anim="Down"      fps="24" loop="false" x="10" y="-102"/>
+	<anim name="dodge"          anim="Dodge"      fps="24" loop="true" x="171"  y="-128"/>
+	<anim name="HAHA"        anim="Haha"        fps="24" loop="false" x="90" y="-150"/>
+	<anim name="hey"      anim="Hey"      fps="24" loop="false" x="17"  y="-94"/>
+	<anim name="Oh_yeah"     anim="OhYeah"     fps="24" loop="false" x="68" y="-159"/>
+	<anim name="Shoot"      anim="Shoot"      fps="24" loop="false" x="69" y="-68"/>
+	<anim name="suspiro"      anim="Suspiro"      fps="24" loop="false" x="28" y="-130"/>
+	
+	
+	
+</character>

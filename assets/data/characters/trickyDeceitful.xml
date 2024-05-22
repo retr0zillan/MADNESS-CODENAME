@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="trickyDeceitful" y="0" isGF="false" isPlayer="false" sprite="trickyDeceitful">
+	<anim x="125" loop="true" y="159" fps="24" anim="Idle" name="idle"/>
+	<anim x="105" loop="false" y="397" fps="24" anim="up" name="singUP"/>
+	<anim x="559" loop="false" y="101" fps="24" anim="left" name="singLEFT"/>
+	<anim x="62" loop="false" y="68" fps="24" anim="right" name="singRIGHT"/>
+	<anim x="53" loop="false" y="-72" fps="24" anim="down" name="singDOWN"/>
+</character>

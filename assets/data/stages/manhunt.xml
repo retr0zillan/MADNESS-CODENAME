@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.2" name="manhunt" folder="stages/manhunt/" startCamPosY="384" startCamPosX="512">
+	<sprite name="floor"               x="-600" y="-200"   sprite="Bg"       scroll="0.9" scale="1"/>
+
+
+	<girlfriend x = "660" y = "145"/>
+	<dad x = "46" y= "474"/>
+	<boyfriend x = "784" y = "576"/>
+
+	<sprite name="light"                x="-600" y="-200"   sprite="Luz"       scroll="0.9" scale="1"/>
+
+</stage>

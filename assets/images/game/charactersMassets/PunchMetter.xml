@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PunchMetter.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="COOL PUNCH FULL0000" x="6" y="6" width="176" height="306"/>
+	<SubTexture name="COOL PUNCH FULL0001" x="188" y="6" width="176" height="306"/>
+	<SubTexture name="COOL PUNCH FULL0002" x="6" y="318" width="176" height="306"/>
+	<SubTexture name="COOL PUNCH FULL0003" x="188" y="318" width="176" height="306"/>
+	<SubTexture name="COOL PUNCH FULL0004" x="6" y="630" width="176" height="306"/>
+	<SubTexture name="COOL PUNCH FULL0005" x="188" y="630" width="176" height="306"/>
+	<SubTexture name="COOL PUNCH NORMAL0000" x="188" y="630" width="176" height="306"/>
+</TextureAtlas>

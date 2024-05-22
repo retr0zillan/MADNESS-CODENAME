@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="roge" folder="stages/roge/" startCamPosY="863" startCamPosX="781">
+	<sprite name="bg"               x="0" y="0"   sprite="Fondo"       scroll="0.9" scale="1"/>
+
+	<girlfriend />
+	<dad x = "-50" y= "50" scale = "0.3"/>
+	<boyfriend x = "900" y = "200" scale = "0.4"/>
+</stage>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="dad" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Enemies">
+	<anim x="160" loop="false" y="20" fps="24" anim="Enemy4_spawns" name="spawn"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="Enemy4_idle" name="idle"/>
+	<anim x="0" loop="true" y="-7" fps="24" anim="Enemy4_charging" name="charge"/>
+	<anim x="15" loop="true" y="-7" fps="24" anim="Enemy4_attackloop" name="attack"/>
+	<anim x="35" loop="false" y="54" fps="24" anim="Enemy4_death1" name="dies1"/>
+	<anim x="21" loop="false" y="76" fps="24" anim="Enemy4_death2" name="dies2"/>
+	
+</character>

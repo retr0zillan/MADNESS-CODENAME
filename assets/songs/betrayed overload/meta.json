@@ -1,0 +1,12 @@
+{
+	"displayName": "betrayed overload",
+	"bpm": 200.0,
+	"icon": "bf",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+	"customValues": {
+		"allowedChars":[
+		"everyone"
+		] 
+	}
+}

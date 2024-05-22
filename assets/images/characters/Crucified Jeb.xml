@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Crucified Jeb.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Crucified aparecimento 0000" x="6" y="6" width="661" height="805" frameX="0" frameY="0" frameWidth="661" frameHeight="1473"/>
+	<SubTexture name="Crucified aparecimento 0001" x="673" y="6" width="661" height="805" frameX="0" frameY="-428" frameWidth="661" frameHeight="1473"/>
+	<SubTexture name="Crucified aparecimento 0002" x="1340" y="6" width="659" height="803" frameX="-2" frameY="-656" frameWidth="661" frameHeight="1473"/>
+	<SubTexture name="Crucified aparecimento 0003" x="2005" y="6" width="659" height="803" frameX="-2" frameY="-670" frameWidth="661" frameHeight="1473"/>
+	<SubTexture name="Crucified aparecimento 0004" x="2670" y="6" width="656" height="801" frameX="-5" frameY="-665" frameWidth="661" frameHeight="1473"/>
+	<SubTexture name="Crucified aparecimento 0005" x="3332" y="6" width="656" height="801" frameX="-5" frameY="-661" frameWidth="661" frameHeight="1473"/>
+	<SubTexture name="Crucified aparecimento 0006" x="3994" y="6" width="654" height="799" frameX="-7" frameY="-651" frameWidth="661" frameHeight="1473"/>
+	<SubTexture name="Crucified aparecimento 0007" x="4654" y="6" width="654" height="799" frameX="-7" frameY="-644" frameWidth="661" frameHeight="1473"/>
+	<SubTexture name="Crucified aparecimento 0008" x="5314" y="6" width="656" height="801" frameX="-5" frameY="-640" frameWidth="661" frameHeight="1473"/>
+	<SubTexture name="Crucified aparecimento 0009" x="5976" y="6" width="656" height="801" frameX="-5" frameY="-638" frameWidth="661" frameHeight="1473"/>
+	<SubTexture name="Crucified down0000" x="6638" y="6" width="552" height="657" frameX="-58" frameY="-21" frameWidth="610" frameHeight="678"/>
+	<SubTexture name="Crucified down0001" x="6638" y="6" width="552" height="657" frameX="-58" frameY="-21" frameWidth="610" frameHeight="678"/>
+	<SubTexture name="Crucified down0002" x="7196" y="6" width="586" height="665" frameX="-10" frameY="-6" frameWidth="610" frameHeight="678"/>
+	<SubTexture name="Crucified down0003" x="7196" y="6" width="586" height="665" frameX="-10" frameY="-6" frameWidth="610" frameHeight="678"/>
+	<SubTexture name="Crucified down0004" x="6" y="817" width="589" height="668" frameX="-3" frameY="0" frameWidth="610" frameHeight="678"/>
+	<SubTexture name="Crucified down0005" x="6" y="817" width="589" height="668" frameX="-3" frameY="0" frameWidth="610" frameHeight="678"/>
+	<SubTexture name="Crucified down0006" x="601" y="817" width="588" height="667" frameX="-2" frameY="-1" frameWidth="610" frameHeight="678"/>
+	<SubTexture name="Crucified down0007" x="1195" y="817" width="589" height="666" frameX="0" frameY="-2" frameWidth="610" frameHeight="678"/>
+	<SubTexture name="Crucified down0008" x="1195" y="817" width="589" height="666" frameX="0" frameY="-2" frameWidth="610" frameHeight="678"/>
+	<SubTexture name="Crucified down0009" x="1195" y="817" width="589" height="666" frameX="0" frameY="-2" frameWidth="610" frameHeight="678"/>
+	<SubTexture name="Crucified idle0000" x="1790" y="817" width="569" height="802" frameX="0" frameY="0" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0001" x="2365" y="817" width="569" height="802" frameX="0" frameY="0" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0002" x="2940" y="817" width="567" height="800" frameX="-2" frameY="-2" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0003" x="3513" y="817" width="567" height="800" frameX="-2" frameY="-2" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0004" x="4086" y="817" width="565" height="798" frameX="-5" frameY="-4" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0005" x="4657" y="817" width="565" height="798" frameX="-5" frameY="-4" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0006" x="5228" y="817" width="563" height="796" frameX="-7" frameY="-6" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0007" x="5797" y="817" width="563" height="796" frameX="-7" frameY="-6" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0008" x="6366" y="817" width="565" height="798" frameX="-5" frameY="-4" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0009" x="6937" y="817" width="565" height="798" frameX="-5" frameY="-4" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0010" x="7508" y="817" width="567" height="800" frameX="-2" frameY="-2" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0011" x="6" y="1625" width="567" height="800" frameX="-2" frameY="-2" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0012" x="579" y="1625" width="569" height="802" frameX="0" frameY="0" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0013" x="1154" y="1625" width="569" height="802" frameX="0" frameY="0" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified idle0014" x="1729" y="1625" width="569" height="802" frameX="0" frameY="0" frameWidth="570" frameHeight="802"/>
+	<SubTexture name="Crucified left0000" x="2304" y="1625" width="846" height="568" frameX="0" frameY="-51" frameWidth="861" frameHeight="635"/>
+	<SubTexture name="Crucified left0001" x="2304" y="1625" width="846" height="568" frameX="0" frameY="-51" frameWidth="861" frameHeight="635"/>
+	<SubTexture name="Crucified left0002" x="3156" y="1625" width="823" height="590" frameX="-33" frameY="-26" frameWidth="861" frameHeight="635"/>
+	<SubTexture name="Crucified left0003" x="3156" y="1625" width="823" height="590" frameX="-33" frameY="-26" frameWidth="861" frameHeight="635"/>
+	<SubTexture name="Crucified left0004" x="3985" y="1625" width="805" height="618" frameX="-55" frameY="-8" frameWidth="861" frameHeight="635"/>
+	<SubTexture name="Crucified left0005" x="4796" y="1625" width="794" height="631" frameX="-66" frameY="-2" frameWidth="861" frameHeight="635"/>
+	<SubTexture name="Crucified left0006" x="5596" y="1625" width="790" height="635" frameX="-71" frameY="0" frameWidth="861" frameHeight="635"/>
+	<SubTexture name="Crucified left0007" x="6392" y="1625" width="790" height="635" frameX="-71" frameY="0" frameWidth="861" frameHeight="635"/>
+	<SubTexture name="Crucified left0008" x="6392" y="1625" width="790" height="635" frameX="-71" frameY="0" frameWidth="861" frameHeight="635"/>
+	<SubTexture name="Crucified left0009" x="7188" y="1625" width="790" height="635" frameX="-71" frameY="0" frameWidth="861" frameHeight="635"/>
+	<SubTexture name="Crucified right0000" x="6" y="2433" width="722" height="881" frameX="-33" frameY="-52" frameWidth="755" frameHeight="933"/>
+	<SubTexture name="Crucified right0001" x="734" y="2433" width="720" height="881" frameX="-33" frameY="-52" frameWidth="755" frameHeight="933"/>
+	<SubTexture name="Crucified right0002" x="1460" y="2433" width="700" height="909" frameX="-18" frameY="-23" frameWidth="755" frameHeight="933"/>
+	<SubTexture name="Crucified right0003" x="2166" y="2433" width="701" height="909" frameX="-18" frameY="-23" frameWidth="755" frameHeight="933"/>
+	<SubTexture name="Crucified right0004" x="2873" y="2433" width="681" height="925" frameX="0" frameY="-7" frameWidth="755" frameHeight="933"/>
+	<SubTexture name="Crucified right0005" x="3560" y="2433" width="683" height="925" frameX="0" frameY="-7" frameWidth="755" frameHeight="933"/>
+	<SubTexture name="Crucified right0006" x="4249" y="2433" width="671" height="932" frameX="-1" frameY="0" frameWidth="755" frameHeight="933"/>
+	<SubTexture name="Crucified right0007" x="4926" y="2433" width="666" height="930" frameX="-5" frameY="-2" frameWidth="755" frameHeight="933"/>
+	<SubTexture name="Crucified right0008" x="5598" y="2433" width="667" height="930" frameX="-5" frameY="-2" frameWidth="755" frameHeight="933"/>
+	<SubTexture name="Crucified right0009" x="6271" y="2433" width="667" height="930" frameX="-5" frameY="-2" frameWidth="755" frameHeight="933"/>
+	<SubTexture name="Crucified up0000" x="6944" y="2433" width="578" height="744" frameX="0" frameY="0" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0001" x="7528" y="2433" width="578" height="744" frameX="0" frameY="0" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0002" x="6" y="3371" width="543" height="738" frameX="-19" frameY="-19" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0003" x="555" y="3371" width="543" height="738" frameX="-19" frameY="-19" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0004" x="1104" y="3371" width="531" height="732" frameX="-28" frameY="-34" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0005" x="1641" y="3371" width="531" height="732" frameX="-28" frameY="-34" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0006" x="2178" y="3371" width="525" height="727" frameX="-33" frameY="-41" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0007" x="2709" y="3371" width="525" height="727" frameX="-33" frameY="-41" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0008" x="3240" y="3371" width="524" height="726" frameX="-34" frameY="-42" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0009" x="3770" y="3371" width="524" height="726" frameX="-34" frameY="-42" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0010" x="4300" y="3371" width="524" height="725" frameX="-34" frameY="-43" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0011" x="4830" y="3371" width="524" height="725" frameX="-34" frameY="-43" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0012" x="5360" y="3371" width="524" height="725" frameX="-34" frameY="-43" frameWidth="578" frameHeight="768"/>
+	<SubTexture name="Crucified up0013" x="4830" y="3371" width="524" height="725" frameX="-34" frameY="-43" frameWidth="578" frameHeight="768"/>
+</TextureAtlas>

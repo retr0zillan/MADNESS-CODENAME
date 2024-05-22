@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" x="0" y="0" scale="0.6">
+	<anim name="idle"          anim="BF idle dance 0"      fps="24" loop="false" x="125"  y="159"/>
+	<anim name="singUP"        anim="Bf Up Pose 0"        fps="24" loop="false" x="90" y="206"/>
+	<anim name="singLEFT"      anim="Bf Left Pose 0"      fps="24" loop="false" x="140"  y="145"/>
+	<anim name="singRIGHT"     anim="Bf Right Pose0"     fps="24" loop="false" x="80" y="144"/>
+	<anim name="singDOWN"      anim="Bf Down Pose 0"      fps="24" loop="false" x="142" y="114"/>
+	<anim name="singUPmiss"    anim="Bf Up Pose Miss0"    fps="24" loop="false" x="89" y="188"/>
+	<anim name="singLEFTmiss"  anim="Bf Left Pose MISSS0"  fps="24" loop="false" x="192"  y="131"/>
+	<anim name="singRIGHTmiss" anim="Bf Right Pose MISS0" fps="24" loop="false" x="86" y="142"/>
+	<anim name="singDOWNmiss"  anim="Bf Down Pose MISS0"  fps="24" loop="false" x="119" y="113"/>
+	<anim name="idle-cool"          anim="BF idle dance ERECTO"      fps="24" loop="false" x="124"  y="160"/>
+	<anim name="singLEFT-cool"          anim="BF idle dance ERECTO"      fps="24" loop="false" x="192"  y="131"/>
+	<anim name="singRIGHT-cool"          anim="Bf Right Pose ERECTO"      fps="24" loop="false" x="84"  y="142"/>
+	<anim name="singDOWN-cool"          anim="Bf Down Pose ERECTO"      fps="24" loop="false" x="138"  y="114"/>
+	<anim name="singUP-cool"          anim="Bf Up Pose ERECTO"      fps="24" loop="false" x="415"  y="174"/>
+	<anim name="glitch"          anim="BF GLITCH"      fps="24" loop="false" x="108"  y="164"/>
+</character>

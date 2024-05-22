@@ -1,0 +1,103 @@
+[
+	{
+		"options": [
+			"KRINKELS",
+			"KRONKELS",
+			"KRUNKELS"
+		],
+		"question": "WHOS THE CREATOR OF THE MADNESS COMBAT SERIES?",
+		"answer": 0
+	},
+	{
+		"options": [
+			"JEBUS",
+			"JEBEDIAH",
+			"GOD"
+		],
+		"question": "WHATS JEBUS FIRST NAME?",
+		"answer": 1
+	},
+	{
+		"options": [
+			"DEIMOS",
+			"DEIMOS",
+			"DEIMOS"
+		],
+		"question": "WHOS THE BEST MC CHARACTER?",
+		"answer": 0
+	},
+	{
+		"options": [
+			"TRICKY", 
+			"MAG AGENT", 
+			"ATP ENGINEER"
+		],
+		"question": "WHO KILLED DEIMOS?",
+		"answer":2
+	},
+	{
+		"options": [
+			"2005", 
+			"2003", 
+			"2002"
+		],
+		"question": "THE YEAR OF THE FIRST MADNESS COMBAT EPISODE WAS?",
+		"answer":2
+	},
+	{
+		"options": [
+			"JEBUS", 
+			"TRICKY", 
+			"AUDITOR"
+		],
+		"question": "WHOS HANK NEMESIS?",
+		"answer":1
+	},
+	{
+		"options": [
+			"BLACK", 
+			"RED", 
+			"WHITE"
+		],
+		"question": "WHATS THE COLOR OF TRICKY THIRD TRANSFORMATION?",
+		"answer":2
+	},
+	{
+		"options": [
+			"7", 
+			"5", 
+			"10"
+		],
+		"question": "HOW MANY TIMES DID HANK DIE IN THE MC SERIES?",
+		"answer":0
+	},
+	{
+		"options": [
+			"APOTHEOSIS", 
+			"DESPACITO", 
+			"CHICKEN DANCE"
+		],
+		"question": "WHATS TRICKY FAVOURITE SONG?",
+		"answer":2
+	},
+	{
+		"options": [
+			"NEVADA", 
+			"MEXICO", 
+			"CANADA"
+		],
+		"question": "WHERE DOES MADNESS COMBAT TOOK PLACE IN?",
+		"answer":0
+	},
+	{
+		"options": [
+			"101011100", 
+			"100111100", 
+			"KILL ME"
+		],
+		"question": "WHATS THE BINARY SEQUENCE IN JEBUS SWORD?",
+		"answer":1
+	}
+	
+	
+]

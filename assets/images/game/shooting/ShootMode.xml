@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ShootMode.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Disable0000" x="10" y="10" width="836" height="233"/>
+	<SubTexture name="Mirilla0000" x="10" y="253" width="231" height="240"/>
+	<SubTexture name="Toogle0000" x="10" y="503" width="840" height="219"/>
+</TextureAtlas>

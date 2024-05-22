@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="dad" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="FreeplayStuff">
+	<anim x="0" loop="false" y="0" fps="24" anim="DifEasy" name="easyidle"/>
+	<anim x="-28" loop="false" y="-28" fps="24" anim="DifSelectEasy" name="easyselect"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="DifNormal" name="normalidle"/>
+	<anim x="-28" loop="false" y="-28" fps="24" anim="DifSelectNormal" name="normalselect"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="DifHard" name="hardidle"/>
+	<anim x="-28" loop="false" y="-28" fps="24" anim="DifSelectHard" name="hardselect"/>
+</character>

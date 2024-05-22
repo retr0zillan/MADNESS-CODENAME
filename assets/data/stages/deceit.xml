@@ -1,0 +1,22 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="deceit" folder="stages/deceit/" startCamPosY="389" startCamPosX="972">
+	<sprite name="sky"               x="-672" y="-256"   sprite="Sky"       scroll="0.9" scale = "1.1"/>
+	<sprite name="Building"               x="692" y="-200"   sprite="Building"       scroll="0.9" scale = "1"/>
+
+	<sprite name="corp1"      x="943" y="399"   sprite="Corpses"  scale = "1" scroll = "0.9">
+			<anim name = "idle" anim = "Corpses1" loop = "true"/>			
+	</sprite>
+	
+
+	<girlfriend x = "650" y = "220"/>
+	<dad x = "54" y = "43"/>
+	<boyfriend x = "1538" y = "537" camyoffset = "-160" camxoffset = "-350"/>
+
+	<sprite name="hank"      x="810" y="331"   sprite="HankBumping"  scale = "1" scroll = "0.9">
+			<anim name = "idle" anim = "hank idle" loop = "true"/>			
+	</sprite>
+	<sprite name="corp2"      x="731" y="-506"   sprite="Corpses"  scale = "1" scroll = "0.9">
+			<anim name = "idle" anim = "Corpses2" loop = "true"/>			
+	</sprite>
+
+</stage>

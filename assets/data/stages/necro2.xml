@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.3" name="necro" folder="stages/necro/" startCamPosY="364" startCamPosX="1028">
+	<sprite name="bg"               x="344" y="-11"   sprite="Building"       scroll="0.9" />
+
+	<sprite name = "capsule" x = "340" y = "-14" sprite = "Machine" scroll = "0.9" >
+			<anim name = "closed" anim = "ClosedMachine" loop = "false"/>
+			<anim name = "open" anim = "OpenMachine" loop = "false"/>
+		</sprite>
+	<sprite name="ded"  x="600" y="350"   sprite="pngdedmosputaquemedapenitaeldeimos" alpha = "1" scale = "0.5" scroll="0.9" />
+
+	<girlfriend x = "650" y = "220"/>
+	<dad x = "600" y = "-70" camxoffset = "-400" camyoffset = "-150"/>
+	<boyfriend x = "1400" y = "500" camxoffset = "-270" camyoffset = "-170" scale = "0.5"/>
+	<sprite name="effect"    x="344" y="-11"   sprite="Necrophegiasteffect2"   scroll="0.9" />
+</stage>

@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="Grunt" y="0" isGF="false" camx = "-170" camy = "-700" flipX="true" isPlayer="true" sprite="Grunt">
+	<anim x="125" loop="false" y="159" fps="24" anim="Grunt idle" name="idle"/>
+	<anim x="450" loop="false" y="181" fps="24" anim="Grunt up" name="singUP"/>
+	<anim x="112" loop="false" y="114" fps="24" anim="Grunt left" name="singLEFT"/>
+	<anim x="450" loop="false" y="110" fps="24" anim="Grunt right" name="singRIGHT"/>
+	<anim x="142" loop="false" y="65" fps="24" anim="Grunt down" name="singDOWN"/>
+	<anim x="446" loop="false" y="195" fps="24" anim="Miss up" name="singUPmiss"/>
+	<anim x="105" loop="false" y="118" fps="24" anim="Miss left" name="singLEFTmiss"/>
+	<anim x="424" loop="false" y="133" fps="24" anim="Miss right" name="singRIGHTmiss"/>
+	<anim x="122" loop="false" y="73" fps="24" anim="Miss down" name="singDOWNmiss"/>
+	<anim x="179" loop="false" y="316" fps="24" anim="Dodge izq" name="dodgeLEFT"/>
+	<anim x="223" loop="false" y="324" fps="24" anim="Dodge der" name="dodgeRIGHT"/>
+</character>

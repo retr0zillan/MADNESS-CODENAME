@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="mandatory" folder="stages/mandatory/" startCamPosY="567" startCamPosX="1045">
+	<sprite name="SKY"               x="-600" y="-371"   sprite="SKY"       scroll="0.9"/>
+	<sprite name="BUILDING"               x="387" y="-68"   sprite="BUILDING"       scroll="0.9"/>
+	<sprite name="FLOOR"               x="-600" y="-200"   sprite="FLOOR"       scroll="0.9"/>
+
+
+	<girlfriend x = "660" y = "145"/>
+	<dad x = "306" y= "250"/>
+	<boyfriend x = "1007" y = "254"/>
+
+
+</stage>

@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bfTorture" y="0" isGF="false" flipX="true" isPlayer="true" sprite="bfTorture">
+	<anim x="125" loop="false" y="159" fps="24" anim="Idle" name="idle"/>
+	<anim x="123" loop="false" y="174" fps="24" anim="Up" name="singUP"/>
+	<anim x="118" loop="false" y="158" fps="24" anim="Left" name="singLEFT"/>
+	<anim x="130" loop="false" y="153" fps="24" anim="Right" name="singRIGHT"/>
+	<anim x="109" loop="false" y="149" fps="24" anim="Down" name="singDOWN"/>
+	<anim x="123" loop="false" y="176" fps="24" anim="MISSup" name="singUPmiss"/>
+	<anim x="116" loop="false" y="160" fps="24" anim="MISSleft" name="singLEFTmiss"/>
+	<anim x="131" loop="false" y="150" fps="24" anim="MISSright" name="singRIGHTmiss"/>
+	<anim x="105" loop="false" y="142" fps="24" anim="MISSdown" name="singDOWNmiss"/>
+	<anim x="125" loop="false" y="159" fps="24" anim="Idle" name="idle-cool"/>
+	<anim x="130" loop="false" y="170" fps="24" anim="StyleUp" name="singUP-cool"/>
+	<anim x="134" loop="false" y="152" fps="24" anim="StyleLeft" name="singLEFT-cool"/>
+	<anim x="110" loop="false" y="159" fps="24" anim="StyleRight" name="singRIGHT-cool"/>
+	<anim x="120" loop="false" y="148" fps="24" anim="StyleDown" name="singDOWN-cool"/>
+</character>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" x="0" y="0" scale="1">
+	<anim name="idle"          anim="Idle"      fps="24" loop="false" x="-8"  y="-161"/>
+	<anim name="singUP"        anim="Up"        fps="24" loop="false" x="24" y="-120"/>
+	<anim name="singLEFT"      anim="Left"      fps="24" loop="false" x="31"  y="-160"/>
+	<anim name="singRIGHT"     anim="Right"     fps="24" loop="false" x="-60" y="-183"/>
+	<anim name="singDOWN"      anim="Down"      fps="24" loop="false" x="40" y="-90"/>
+
+
+</character>

@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" x="0" y="0"  color = "#797070" scale="1" sprite = "Rich">
+	<anim name="idle"          anim="idle instance "      fps="24" loop="false" x="155"  y="170"/>
+	<anim name="singUP"        anim="up instance"        fps="24" loop="false" x="237" y="241"/>
+	<anim name="singLEFT"      anim="left instance"      fps="24" loop="false" x="585"  y="41"/>
+	<anim name="singRIGHT"     anim="right instance"     fps="24" loop="false" x="201" y="143"/>
+	<anim name="singDOWN"      anim="down instance"      fps="24" loop="false" x="207" y="45"/>
+	<anim name="singUPmiss"    anim="up error instance"    fps="24" loop="false" x="239" y="237"/>
+	<anim name="singLEFTmiss"  anim="left error instance"  fps="24" loop="false" x="583"  y="40"/>
+	<anim name="singRIGHTmiss" anim="right error instance" fps="24" loop="false" x="235" y="127"/>
+	<anim name="singDOWNmiss"  anim="down error instance"  fps="24" loop="false" x="204" y="40"/>
+
+</character>

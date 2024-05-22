@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="difuminado_rojo.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rojo instance 10000" x="0" y="0" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10001" x="2052" y="0" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10002" x="4104" y="0" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10003" x="0" y="1156" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10004" x="2052" y="1156" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10005" x="4104" y="1156" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10006" x="0" y="2312" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10007" x="2052" y="2312" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10008" x="4104" y="2312" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10009" x="0" y="3468" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10010" x="2052" y="3468" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10011" x="4104" y="3468" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10012" x="0" y="4624" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10013" x="2052" y="4624" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10014" x="4104" y="4624" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10015" x="0" y="5780" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10016" x="2052" y="5780" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10017" x="4104" y="5780" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10018" x="0" y="6936" width="2052" height="1156"/>
+	<SubTexture name="rojo instance 10019" x="0" y="0" width="2052" height="1156"/>
+</TextureAtlas>

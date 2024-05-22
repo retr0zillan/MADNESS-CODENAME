@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MecanicaEx.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pared atras 0000" x="0" y="0" width="91" height="110" frameX="0" frameY="-191" frameWidth="581" frameHeight="301"/>
+	<SubTexture name="Pared atras 0001" x="91" y="0" width="165" height="192" frameX="0" frameY="-109" frameWidth="581" frameHeight="301"/>
+	<SubTexture name="Pared atras 0002" x="256" y="0" width="202" height="274" frameX="0" frameY="-27" frameWidth="581" frameHeight="301"/>
+	<SubTexture name="Pared atras 0003" x="458" y="0" width="285" height="281" frameX="0" frameY="-20" frameWidth="581" frameHeight="301"/>
+	<SubTexture name="Pared atras 0004" x="743" y="0" width="346" height="281" frameX="0" frameY="-20" frameWidth="581" frameHeight="301"/>
+	<SubTexture name="Pared atras 0005" x="1089" y="0" width="383" height="295" frameX="0" frameY="-6" frameWidth="581" frameHeight="301"/>
+	<SubTexture name="Pared atras 0006" x="1472" y="0" width="420" height="301" frameX="0" frameY="0" frameWidth="581" frameHeight="301"/>
+	<SubTexture name="Pared atras 0007" x="1892" y="0" width="451" height="301" frameX="0" frameY="0" frameWidth="581" frameHeight="301"/>
+	<SubTexture name="Pared atras 0008" x="2343" y="0" width="491" height="301" frameX="0" frameY="0" frameWidth="581" frameHeight="301"/>
+	<SubTexture name="Pared atras 0009" x="2834" y="0" width="556" height="301" frameX="0" frameY="0" frameWidth="581" frameHeight="301"/>
+	<SubTexture name="Pared atras 0010" x="3390" y="0" width="577" height="301" frameX="0" frameY="0" frameWidth="581" frameHeight="301"/>
+	<SubTexture name="Pared atras 0011" x="0" y="301" width="581" height="301"/>
+	<SubTexture name="ROTO-SUELO  0000" x="581" y="301" width="42" height="7" frameX="-172" frameY="-4" frameWidth="214" frameHeight="26"/>
+	<SubTexture name="ROTO-SUELO  0001" x="623" y="301" width="60" height="9" frameX="-154" frameY="-2" frameWidth="214" frameHeight="26"/>
+	<SubTexture name="ROTO-SUELO  0002" x="683" y="301" width="67" height="15" frameX="-147" frameY="0" frameWidth="214" frameHeight="26"/>
+	<SubTexture name="ROTO-SUELO  0003" x="750" y="301" width="87" height="23" frameX="-127" frameY="0" frameWidth="214" frameHeight="26"/>
+	<SubTexture name="ROTO-SUELO  0004" x="837" y="301" width="113" height="23" frameX="-101" frameY="0" frameWidth="214" frameHeight="26"/>
+	<SubTexture name="ROTO-SUELO  0005" x="950" y="301" width="119" height="26" frameX="-95" frameY="0" frameWidth="214" frameHeight="26"/>
+	<SubTexture name="ROTO-SUELO  0006" x="1069" y="301" width="138" height="26" frameX="-76" frameY="0" frameWidth="214" frameHeight="26"/>
+	<SubTexture name="ROTO-SUELO  0007" x="1207" y="301" width="185" height="26" frameX="-29" frameY="0" frameWidth="214" frameHeight="26"/>
+	<SubTexture name="ROTO-SUELO  0008" x="1392" y="301" width="214" height="26"/>
+	<SubTexture name="ROTO-SUELO  0009" x="1606" y="301" width="214" height="26"/>
+	<SubTexture name="bala 0000" x="1820" y="301" width="147" height="32" frameX="-527" frameY="-30" frameWidth="730" frameHeight="169"/>
+	<SubTexture name="bala 0001" x="1967" y="301" width="420" height="118" frameX="-310" frameY="0" frameWidth="730" frameHeight="169"/>
+	<SubTexture name="bala 0002" x="2387" y="301" width="614" height="141" frameX="0" frameY="-28" frameWidth="730" frameHeight="169"/>
+	<SubTexture name="clontrickyEx-aparece  0000" x="3001" y="301" width="110" height="95" frameX="0" frameY="-62" frameWidth="130" frameHeight="157"/>
+	<SubTexture name="clontrickyEx-aparece  0001" x="3111" y="301" width="110" height="143" frameX="0" frameY="-14" frameWidth="130" frameHeight="157"/>
+	<SubTexture name="clontrickyEx-aparece  0002" x="3221" y="301" width="111" height="152" frameX="-12" frameY="-5" frameWidth="130" frameHeight="157"/>
+	<SubTexture name="clontrickyEx-aparece  0003" x="3332" y="301" width="114" height="157" frameX="-15" frameY="0" frameWidth="130" frameHeight="157"/>
+	<SubTexture name="clontrickyEx-aparece  0004" x="3446" y="301" width="113" height="157" frameX="-17" frameY="0" frameWidth="130" frameHeight="157"/>
+	<SubTexture name="clontrickyEx-aparece  0005" x="3559" y="301" width="114" height="156" frameX="-15" frameY="-1" frameWidth="130" frameHeight="157"/>
+	<SubTexture name="clontrickyEx-aparece  0006" x="3673" y="301" width="111" height="150" frameX="-12" frameY="-7" frameWidth="130" frameHeight="157"/>
+	<SubTexture name="clontrickyEx-aparece  0007" x="3784" y="301" width="111" height="143" frameX="-9" frameY="-14" frameWidth="130" frameHeight="157"/>
+	<SubTexture name="clontrickyEx-aparece  0008" x="3895" y="301" width="112" height="151" frameX="-12" frameY="-6" frameWidth="130" frameHeight="157"/>
+	<SubTexture name="clontrickyEx-aparece  0009" x="0" y="602" width="111" height="141" frameX="-8" frameY="-16" frameWidth="130" frameHeight="157"/>
+	<SubTexture name="clontrickyEx-dead 0000" x="111" y="602" width="111" height="141" frameX="-53" frameY="-45" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0001" x="222" y="602" width="110" height="147" frameX="-56" frameY="-39" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0002" x="332" y="602" width="111" height="142" frameX="-53" frameY="-44" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0003" x="443" y="602" width="111" height="141" frameX="-54" frameY="-45" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0004" x="554" y="602" width="115" height="141" frameX="-49" frameY="-45" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0005" x="669" y="602" width="131" height="142" frameX="-32" frameY="-44" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0006" x="800" y="602" width="131" height="144" frameX="-31" frameY="-42" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0007" x="931" y="602" width="130" height="145" frameX="-30" frameY="-41" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0008" x="1061" y="602" width="129" height="143" frameX="-30" frameY="-43" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0009" x="1190" y="602" width="129" height="143" frameX="-30" frameY="-43" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0010" x="1319" y="602" width="129" height="143" frameX="-30" frameY="-43" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0011" x="1448" y="602" width="124" height="142" frameX="-36" frameY="-44" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0012" x="1572" y="602" width="125" height="145" frameX="-36" frameY="-41" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0013" x="1697" y="602" width="137" height="138" frameX="-52" frameY="-48" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0014" x="1834" y="602" width="124" height="138" frameX="-52" frameY="-48" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0015" x="1958" y="602" width="147" height="171" frameX="-20" frameY="-15" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0016" x="2105" y="602" width="164" height="184" frameX="0" frameY="-2" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0017" x="2269" y="602" width="162" height="186" frameX="0" frameY="0" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0018" x="2431" y="602" width="163" height="186" frameX="0" frameY="0" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0019" x="2594" y="602" width="162" height="186" frameX="0" frameY="0" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0020" x="2756" y="602" width="147" height="186" frameX="0" frameY="0" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0021" x="2903" y="602" width="74" height="95" frameX="-66" frameY="-91" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-dead 0022" x="2977" y="602" width="74" height="63" frameX="-66" frameY="-123" frameWidth="189" frameHeight="186"/>
+	<SubTexture name="clontrickyEx-idle 0000" x="3051" y="602" width="111" height="144" frameX="-2" frameY="-2" frameWidth="118" frameHeight="146"/>
+	<SubTexture name="clontrickyEx-idle 0001" x="3162" y="602" width="111" height="143" frameX="-5" frameY="-3" frameWidth="118" frameHeight="146"/>
+	<SubTexture name="clontrickyEx-idle 0002" x="3273" y="602" width="111" height="144" frameX="-1" frameY="-2" frameWidth="118" frameHeight="146"/>
+	<SubTexture name="clontrickyEx-idle 0003" x="3384" y="602" width="111" height="146" frameX="-7" frameY="0" frameWidth="118" frameHeight="146"/>
+	<SubTexture name="clontrickyEx-idle 0004" x="3495" y="602" width="111" height="144" frameX="0" frameY="-2" frameWidth="118" frameHeight="146"/>
+	<SubTexture name="clontrickyEx-idle 0005" x="3606" y="602" width="111" height="144" frameX="-7" frameY="-2" frameWidth="118" frameHeight="146"/>
+	<SubTexture name="clown disparo 0000" x="3717" y="602" width="112" height="116" frameX="-47" frameY="-2" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0001" x="3829" y="602" width="112" height="115" frameX="-47" frameY="-2" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0002" x="3941" y="602" width="153" height="115" frameX="-6" frameY="-2" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0003" x="0" y="788" width="146" height="113" frameX="-13" frameY="-2" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0004" x="146" y="788" width="154" height="120" frameX="-7" frameY="0" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0005" x="300" y="788" width="157" height="120" frameX="-5" frameY="0" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0006" x="457" y="788" width="156" height="119" frameX="-7" frameY="-1" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0007" x="613" y="788" width="161" height="119" frameX="-2" frameY="-1" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0008" x="774" y="788" width="162" height="119" frameX="-1" frameY="-1" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0009" x="936" y="788" width="163" height="117" frameX="0" frameY="-1" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0010" x="1099" y="788" width="159" height="117" frameX="-3" frameY="0" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0011" x="1258" y="788" width="114" height="114" frameX="-47" frameY="-1" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0012" x="1372" y="788" width="114" height="113" frameX="-45" frameY="-2" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0013" x="1486" y="788" width="111" height="115" frameX="-47" frameY="-2" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0014" x="1597" y="788" width="112" height="116" frameX="-47" frameY="-2" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0015" x="1709" y="788" width="112" height="116" frameX="-47" frameY="-2" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0016" x="1709" y="788" width="112" height="116" frameX="-47" frameY="-2" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown disparo 0017" x="1709" y="788" width="112" height="116" frameX="-47" frameY="-2" frameWidth="163" frameHeight="120"/>
+	<SubTexture name="clown idle 0000" x="1821" y="788" width="112" height="116" frameX="-1" frameY="0" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0001" x="1821" y="788" width="112" height="116" frameX="-1" frameY="0" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0002" x="1933" y="788" width="111" height="115" frameX="-1" frameY="-2" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0003" x="2044" y="788" width="110" height="116" frameX="-1" frameY="-2" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0004" x="2154" y="788" width="109" height="118" frameX="-1" frameY="-2" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0005" x="2263" y="788" width="109" height="118" frameX="-1" frameY="-2" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0006" x="2263" y="788" width="109" height="118" frameX="-1" frameY="-2" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0007" x="2372" y="788" width="111" height="119" frameX="-1" frameY="-2" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0008" x="2483" y="788" width="112" height="119" frameX="-1" frameY="-1" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0009" x="2595" y="788" width="113" height="118" frameX="0" frameY="-1" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0010" x="2708" y="788" width="112" height="117" frameX="-1" frameY="0" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0011" x="2708" y="788" width="112" height="117" frameX="-1" frameY="0" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0012" x="1821" y="788" width="112" height="116" frameX="-1" frameY="0" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0013" x="1821" y="788" width="112" height="116" frameX="-1" frameY="0" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown idle 0014" x="1821" y="788" width="112" height="116" frameX="-1" frameY="0" frameWidth="113" frameHeight="121"/>
+	<SubTexture name="clown 0000" x="2820" y="788" width="94" height="79" frameX="-29" frameY="-48" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0001" x="2820" y="788" width="94" height="79" frameX="-29" frameY="-48" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0002" x="2914" y="788" width="98" height="83" frameX="-27" frameY="-45" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0003" x="2914" y="788" width="98" height="83" frameX="-27" frameY="-45" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0004" x="3012" y="788" width="100" height="86" frameX="-26" frameY="-42" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0005" x="3112" y="788" width="102" height="88" frameX="-25" frameY="-40" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0006" x="3214" y="788" width="104" height="89" frameX="-24" frameY="-39" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0007" x="3318" y="788" width="103" height="88" frameX="-24" frameY="-39" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0008" x="3421" y="788" width="103" height="88" frameX="-24" frameY="-39" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0009" x="3421" y="788" width="103" height="88" frameX="-23" frameY="-38" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0010" x="3524" y="788" width="104" height="89" frameX="-23" frameY="-38" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0011" x="3628" y="788" width="104" height="89" frameX="-23" frameY="-38" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0012" x="3628" y="788" width="104" height="89" frameX="-23" frameY="-38" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0013" x="3732" y="788" width="104" height="89" frameX="-23" frameY="-38" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0014" x="3732" y="788" width="104" height="89" frameX="-23" frameY="-38" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0015" x="3836" y="788" width="103" height="90" frameX="-22" frameY="-35" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0016" x="3939" y="788" width="104" height="91" frameX="-24" frameY="-37" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0017" x="0" y="908" width="105" height="139" frameX="-19" frameY="-33" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0018" x="105" y="908" width="105" height="136" frameX="-27" frameY="-36" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0019" x="210" y="908" width="106" height="141" frameX="-17" frameY="-29" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0020" x="316" y="908" width="105" height="134" frameX="-25" frameY="-36" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0021" x="421" y="908" width="105" height="138" frameX="-16" frameY="-30" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0022" x="526" y="908" width="105" height="131" frameX="-26" frameY="-36" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0023" x="631" y="908" width="104" height="153" frameX="-20" frameY="-14" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0024" x="735" y="908" width="104" height="160" frameX="-8" frameY="-7" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0025" x="839" y="908" width="104" height="158" frameX="-8" frameY="-5" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0026" x="943" y="908" width="110" height="117" frameX="-2" frameY="-2" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0027" x="1053" y="908" width="111" height="117" frameX="-1" frameY="-1" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0028" x="1164" y="908" width="112" height="117" frameX="0" frameY="0" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0029" x="1276" y="908" width="112" height="116" frameX="0" frameY="-1" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown 0030" x="1276" y="908" width="112" height="116" frameX="0" frameY="-1" frameWidth="132" frameHeight="172"/>
+	<SubTexture name="clown muelto 0000" x="1388" y="908" width="111" height="116" frameX="0" frameY="-62" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0001" x="1499" y="908" width="112" height="121" frameX="-2" frameY="-59" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0002" x="1611" y="908" width="133" height="113" frameX="-7" frameY="-61" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0003" x="1744" y="908" width="129" height="133" frameX="-24" frameY="-41" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0004" x="1873" y="908" width="128" height="154" frameX="-26" frameY="-19" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0005" x="2001" y="908" width="152" height="163" frameX="-25" frameY="-11" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0006" x="2153" y="908" width="162" height="173" frameX="-25" frameY="-1" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0007" x="2315" y="908" width="172" height="174" frameX="-19" frameY="0" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0008" x="2487" y="908" width="165" height="206" frameX="-27" frameY="0" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0009" x="2652" y="908" width="144" height="255" frameX="-49" frameY="0" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0010" x="2796" y="908" width="143" height="252" frameX="-50" frameY="-1" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0011" x="2939" y="908" width="142" height="250" frameX="-50" frameY="-1" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0012" x="3081" y="908" width="132" height="250" frameX="-50" frameY="-1" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0013" x="3213" y="908" width="102" height="246" frameX="-49" frameY="-1" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0014" x="3315" y="908" width="100" height="235" frameX="-48" frameY="-3" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0015" x="3415" y="908" width="96" height="227" frameX="-44" frameY="-3" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0016" x="3511" y="908" width="88" height="218" frameX="-46" frameY="-4" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0017" x="3599" y="908" width="86" height="197" frameX="-44" frameY="-20" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0018" x="3685" y="908" width="0" height="0" frameX="810" frameY="285" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="clown muelto 0019" x="3685" y="908" width="0" height="0" frameX="810" frameY="285" frameWidth="193" frameHeight="255"/>
+	<SubTexture name="piedra 0000" x="3685" y="908" width="0" height="0" frameX="578" frameY="285" frameWidth="159" frameHeight="208"/>
+	<SubTexture name="piedra 0001" x="3685" y="908" width="115" height="5" frameX="-26" frameY="-203" frameWidth="159" frameHeight="208"/>
+	<SubTexture name="piedra 0002" x="3800" y="908" width="128" height="28" frameX="-19" frameY="-180" frameWidth="159" frameHeight="208"/>
+	<SubTexture name="piedra 0003" x="3928" y="908" width="150" height="69" frameX="-9" frameY="-139" frameWidth="159" frameHeight="208"/>
+	<SubTexture name="piedra 0004" x="0" y="1163" width="159" height="107" frameX="0" frameY="-101" frameWidth="159" frameHeight="208"/>
+	<SubTexture name="piedra 0005" x="159" y="1163" width="159" height="134" frameX="0" frameY="-74" frameWidth="159" frameHeight="208"/>
+	<SubTexture name="piedra 0006" x="318" y="1163" width="159" height="157" frameX="0" frameY="-51" frameWidth="159" frameHeight="208"/>
+	<SubTexture name="piedra 0007" x="477" y="1163" width="159" height="170" frameX="0" frameY="-38" frameWidth="159" frameHeight="208"/>
+	<SubTexture name="piedra 0008" x="636" y="1163" width="159" height="199" frameX="0" frameY="-9" frameWidth="159" frameHeight="208"/>
+	<SubTexture name="piedra 0009" x="795" y="1163" width="159" height="208"/>
+	<SubTexture name="piedra 0010" x="954" y="1163" width="159" height="208"/>
+	<SubTexture name="piedra 0011" x="1113" y="1163" width="159" height="208"/>
+	<SubTexture name="piedra 0012" x="1113" y="1163" width="159" height="208"/>
+	<SubTexture name="piedra 0013" x="1113" y="1163" width="159" height="208"/>
+	<SubTexture name="piedra 0014" x="1113" y="1163" width="159" height="208"/>
+</TextureAtlas>

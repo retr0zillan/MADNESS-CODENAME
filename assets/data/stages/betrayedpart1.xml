@@ -1,0 +1,21 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.4" name="betrayedpart1" folder="stages/betrayedpart1/" startCamPosY="477" startCamPosX="646">
+	<sprite name="bg"               x="0" y="0"   sprite="BG"       scroll="0.9" scale = "1"/>
+	<sprite name="bgGrunt1"      x="-69" y="410"   sprite="BGromps"  scale = "1" scroll = "0.9">
+	<anim name = "part1" anim = "Romp1Base" loop = "true"/>
+	</sprite>
+
+	<sprite name="bgGrunt2"      x="990" y="426"   sprite="BGromps"  scale = "1" scroll = "0.9">
+	<anim name = "part1" anim = "Romp2Base" loop = "true"/>
+	</sprite>
+		
+	<girlfriend x = "650" y = "220"/>
+	<dad x = "199" y = "261"/>
+	<boyfriend x = "860" y = "600" camyoffset = "-150" camxoffset = "-140"/>
+	<sprite name="FGromps"      x="-73" y="483"   sprite="FGromps"  scale = "0.8" scroll = "1"/>
+
+
+	<sprite name="filter"      x="-52" y="-15"   sprite="CalmRompEffect1ADD"  scale="1.2" scroll="0.9"/>
+	<sprite name="filter2"      x="65" y="23"   sprite="CalmRompEffect2"    scale="1.1"   scroll="0.9"/>
+
+</stage>

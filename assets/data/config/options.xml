@@ -1,0 +1,6 @@
+<!DOCTYPE codename-mod-options>
+<!-- TEMPLATE FOR CUSTOM OPTIONS!!! -->
+<menu name="Mod Options" desc="Modify mod options here">
+	<checkbox id="defHealth" name="Use default health?" />
+	<checkbox id="middleScroll" name="middscroll" />
+</menu>

@@ -1,0 +1,21 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.3" name="jebediah2" folder="stages/jebediah1/" startCamPosY="708" startCamPosX="456">
+	<sprite name="sky"               x="62" y="-156"   sprite="Cielo"       scroll="0.9" />
+	<sprite name="buildings"       x="170" y="46"    sprite="Edificios"      scroll="1.5" />
+	<sprite name="floor"       x="128" y="44"    sprite="Suelo"      scroll="0.9" />
+
+	<girlfriend x = "200"/>
+	<dad x = "200" y = "128" camxoffset = "-100" camyoffset = "50"/>
+	<boyfriend x = "1015" y = "573" camxoffset = "-193" camyoffset = "-113"/>
+
+	<high-memory>
+		<sprite name = "zombies" x = "-132" y = "528" sprite = "zombies" scroll = "0.9" alpha = "1" >
+			<anim name = "bump" anim = "Bumping" loop = "false"/>
+			<anim name = "appear" anim = "Intro" loop = "false"/>
+		</sprite>
+
+		
+	
+	</high-memory>
+	<sprite name="effect"    x="132" y="46"   sprite="Effecto"   scroll="0.9" />
+</stage>

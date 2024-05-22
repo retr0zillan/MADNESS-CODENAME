@@ -1,0 +1,4 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" isGF="true" x="0" y="0">
+	<anim name="idle"      anim="GF Dancing Beat"   fps="24" loop="false" />
+</character>

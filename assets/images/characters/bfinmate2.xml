@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfinmate2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AtackInmate der0000" x="24" y="24" width="422" height="477" frameX="0" frameY="0" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0001" x="470" y="24" width="426" height="423" frameX="-3" frameY="-53" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0002" x="920" y="24" width="421" height="390" frameX="-10" frameY="-86" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0003" x="1365" y="24" width="598" height="458" frameX="-28" frameY="-6" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0004" x="1987" y="24" width="556" height="459" frameX="-28" frameY="-6" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0005" x="2567" y="24" width="512" height="440" frameX="-28" frameY="-24" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0006" x="3103" y="24" width="494" height="441" frameX="-28" frameY="-24" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0007" x="3621" y="24" width="469" height="440" frameX="-28" frameY="-24" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0008" x="4114" y="24" width="469" height="441" frameX="-28" frameY="-24" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0009" x="3621" y="24" width="469" height="440" frameX="-28" frameY="-24" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0010" x="4114" y="24" width="469" height="441" frameX="-28" frameY="-24" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0011" x="3621" y="24" width="469" height="440" frameX="-28" frameY="-24" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0012" x="4114" y="24" width="469" height="441" frameX="-28" frameY="-24" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate der0013" x="3621" y="24" width="469" height="440" frameX="-28" frameY="-24" frameWidth="626" frameHeight="477"/>
+	<SubTexture name="AtackInmate izq0000" x="4607" y="24" width="459" height="378" frameX="-180" frameY="-93" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0001" x="5090" y="24" width="455" height="340" frameX="-175" frameY="-131" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0002" x="5569" y="24" width="449" height="362" frameX="-168" frameY="-109" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0003" x="6042" y="24" width="576" height="431" frameX="0" frameY="-61" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0004" x="6642" y="24" width="576" height="431" frameX="0" frameY="-61" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0005" x="7242" y="24" width="535" height="473" frameX="-41" frameY="-19" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0006" x="24" y="525" width="497" height="492" frameX="-79" frameY="0" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0007" x="545" y="525" width="497" height="492" frameX="-79" frameY="0" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0008" x="545" y="525" width="497" height="492" frameX="-79" frameY="0" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0009" x="545" y="525" width="497" height="492" frameX="-79" frameY="0" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0010" x="545" y="525" width="497" height="492" frameX="-79" frameY="0" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0011" x="545" y="525" width="497" height="492" frameX="-79" frameY="0" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0012" x="545" y="525" width="497" height="492" frameX="-79" frameY="0" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="AtackInmate izq0013" x="545" y="525" width="497" height="492" frameX="-79" frameY="0" frameWidth="639" frameHeight="492"/>
+	<SubTexture name="Inmate MicExplodes0000" x="1066" y="525" width="541" height="415" frameX="-7" frameY="-4" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0001" x="1631" y="525" width="546" height="412" frameX="-6" frameY="-7" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0002" x="2201" y="525" width="540" height="415" frameX="-7" frameY="-4" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0003" x="2765" y="525" width="547" height="410" frameX="-6" frameY="-9" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0004" x="3336" y="525" width="543" height="419" frameX="-6" frameY="0" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0005" x="3903" y="525" width="559" height="394" frameX="-4" frameY="-25" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0006" x="4486" y="525" width="559" height="398" frameX="-4" frameY="-21" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0007" x="5069" y="525" width="559" height="395" frameX="-4" frameY="-24" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0008" x="5652" y="525" width="559" height="395" frameX="-4" frameY="-24" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0009" x="6235" y="525" width="563" height="395" frameX="0" frameY="-24" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0010" x="6822" y="525" width="556" height="395" frameX="-7" frameY="-24" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0011" x="7402" y="525" width="497" height="395" frameX="-66" frameY="-24" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0012" x="24" y="1041" width="497" height="395" frameX="-66" frameY="-24" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate MicExplodes0013" x="545" y="1041" width="497" height="395" frameX="-66" frameY="-24" frameWidth="563" frameHeight="419"/>
+	<SubTexture name="Inmate hurtNote0000" x="1066" y="1041" width="410" height="458" frameX="-3" frameY="0" frameWidth="413" frameHeight="458"/>
+	<SubTexture name="Inmate hurtNote0001" x="1500" y="1041" width="406" height="458" frameX="-5" frameY="0" frameWidth="413" frameHeight="458"/>
+	<SubTexture name="Inmate hurtNote0002" x="1930" y="1041" width="397" height="458" frameX="0" frameY="0" frameWidth="413" frameHeight="458"/>
+	<SubTexture name="Inmate hurtNote0003" x="2351" y="1041" width="359" height="458" frameX="-23" frameY="0" frameWidth="413" frameHeight="458"/>
+	<SubTexture name="Inmate hurtNote0004" x="2734" y="1041" width="358" height="458" frameX="-24" frameY="0" frameWidth="413" frameHeight="458"/>
+	<SubTexture name="Inmate hurtNote0005" x="3116" y="1041" width="359" height="458" frameX="-23" frameY="0" frameWidth="413" frameHeight="458"/>
+	<SubTexture name="Inmate hurtNote0006" x="2734" y="1041" width="358" height="458" frameX="-24" frameY="0" frameWidth="413" frameHeight="458"/>
+	<SubTexture name="InmateAbajo0000" x="3499" y="1041" width="600" height="403" frameX="0" frameY="-9" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0001" x="4123" y="1041" width="595" height="412" frameX="-7" frameY="0" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0002" x="4123" y="1041" width="595" height="412" frameX="-7" frameY="0" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0003" x="4742" y="1041" width="593" height="409" frameX="-7" frameY="-3" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0004" x="5359" y="1041" width="595" height="402" frameX="-2" frameY="-11" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0005" x="5978" y="1041" width="597" height="394" frameX="0" frameY="-19" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0006" x="5978" y="1041" width="597" height="394" frameX="0" frameY="-19" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0007" x="5978" y="1041" width="597" height="394" frameX="0" frameY="-19" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0008" x="5978" y="1041" width="597" height="394" frameX="0" frameY="-19" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0009" x="5978" y="1041" width="597" height="394" frameX="0" frameY="-19" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0010" x="5978" y="1041" width="597" height="394" frameX="0" frameY="-19" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0011" x="5978" y="1041" width="597" height="394" frameX="0" frameY="-19" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0012" x="5978" y="1041" width="597" height="394" frameX="0" frameY="-19" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateAbajo0013" x="5978" y="1041" width="597" height="394" frameX="0" frameY="-19" frameWidth="602" frameHeight="413"/>
+	<SubTexture name="InmateArriba0000" x="6599" y="1041" width="404" height="449" frameX="-1" frameY="-8" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0001" x="7027" y="1041" width="403" height="457" frameX="-4" frameY="0" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0002" x="7027" y="1041" width="403" height="457" frameX="-4" frameY="0" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0003" x="7454" y="1041" width="403" height="454" frameX="-2" frameY="-3" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0004" x="24" y="1523" width="407" height="447" frameX="0" frameY="-10" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0005" x="455" y="1523" width="404" height="445" frameX="0" frameY="-12" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0006" x="455" y="1523" width="404" height="445" frameX="0" frameY="-12" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0007" x="455" y="1523" width="404" height="445" frameX="0" frameY="-12" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0008" x="455" y="1523" width="404" height="445" frameX="0" frameY="-12" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0009" x="455" y="1523" width="404" height="445" frameX="0" frameY="-12" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0010" x="455" y="1523" width="404" height="445" frameX="0" frameY="-12" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0011" x="455" y="1523" width="404" height="445" frameX="0" frameY="-12" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0012" x="455" y="1523" width="404" height="445" frameX="0" frameY="-12" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateArriba0013" x="455" y="1523" width="404" height="445" frameX="0" frameY="-12" frameWidth="407" frameHeight="457"/>
+	<SubTexture name="InmateDer0000" x="883" y="1523" width="462" height="386" frameX="-2" frameY="0" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0001" x="1369" y="1523" width="478" height="384" frameX="-3" frameY="-2" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0002" x="1369" y="1523" width="478" height="384" frameX="-3" frameY="-2" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0003" x="1871" y="1523" width="468" height="383" frameX="-2" frameY="-3" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0004" x="2363" y="1523" width="458" height="381" frameX="0" frameY="-5" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0005" x="2845" y="1523" width="458" height="381" frameX="0" frameY="-5" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0006" x="2845" y="1523" width="458" height="381" frameX="0" frameY="-5" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0007" x="2845" y="1523" width="458" height="381" frameX="0" frameY="-5" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0008" x="2845" y="1523" width="458" height="381" frameX="0" frameY="-5" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0009" x="2845" y="1523" width="458" height="381" frameX="0" frameY="-5" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0010" x="2845" y="1523" width="458" height="381" frameX="0" frameY="-5" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0011" x="2845" y="1523" width="458" height="381" frameX="0" frameY="-5" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0012" x="2845" y="1523" width="458" height="381" frameX="0" frameY="-5" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateDer0013" x="2845" y="1523" width="458" height="381" frameX="0" frameY="-5" frameWidth="481" frameHeight="386"/>
+	<SubTexture name="InmateIdle0000" x="3327" y="1523" width="542" height="373" frameX="0" frameY="-32" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0001" x="3327" y="1523" width="542" height="373" frameX="0" frameY="-32" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0002" x="3893" y="1523" width="532" height="379" frameX="-7" frameY="-26" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0003" x="3893" y="1523" width="532" height="379" frameX="-7" frameY="-26" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0004" x="4449" y="1523" width="524" height="390" frameX="-11" frameY="-16" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0005" x="4449" y="1523" width="524" height="390" frameX="-11" frameY="-16" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0006" x="4997" y="1523" width="531" height="403" frameX="-3" frameY="-3" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0007" x="4997" y="1523" width="531" height="403" frameX="-3" frameY="-3" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0008" x="5552" y="1523" width="532" height="405" frameX="-2" frameY="-1" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0009" x="5552" y="1523" width="532" height="405" frameX="-2" frameY="-1" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0010" x="5552" y="1523" width="532" height="405" frameX="-2" frameY="-1" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0011" x="5552" y="1523" width="532" height="405" frameX="-2" frameY="-1" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0012" x="6108" y="1523" width="534" height="406" frameX="0" frameY="0" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIdle0013" x="6108" y="1523" width="534" height="406" frameX="0" frameY="0" frameWidth="542" frameHeight="406"/>
+	<SubTexture name="InmateIzq0000" x="6666" y="1523" width="520" height="426" frameX="-12" frameY="-2" frameWidth="532" frameHeight="428"/>
+	<SubTexture name="InmateIzq0001" x="7210" y="1523" width="532" height="428"/>
+	<SubTexture name="InmateIzq0002" x="7210" y="1523" width="532" height="428"/>
+	<SubTexture name="InmateIzq0003" x="24" y="1994" width="528" height="424" frameX="-4" frameY="-4" frameWidth="532" frameHeight="428"/>
+	<SubTexture name="InmateIzq0004" x="24" y="1994" width="528" height="424" frameX="-4" frameY="-4" frameWidth="532" frameHeight="428"/>
+	<SubTexture name="InmateIzq0005" x="576" y="1994" width="515" height="422" frameX="-17" frameY="-6" frameWidth="532" frameHeight="428"/>
+	<SubTexture name="InmateIzq0006" x="576" y="1994" width="515" height="422" frameX="-17" frameY="-6" frameWidth="532" frameHeight="428"/>
+	<SubTexture name="InmateIzq0007" x="576" y="1994" width="515" height="422" frameX="-17" frameY="-6" frameWidth="532" frameHeight="428"/>
+	<SubTexture name="InmateIzq0008" x="576" y="1994" width="515" height="422" frameX="-17" frameY="-6" frameWidth="532" frameHeight="428"/>
+	<SubTexture name="InmateIzq0009" x="576" y="1994" width="515" height="422" frameX="-17" frameY="-6" frameWidth="532" frameHeight="428"/>
+	<SubTexture name="InmateIzq0010" x="576" y="1994" width="515" height="422" frameX="-17" frameY="-6" frameWidth="532" frameHeight="428"/>
+	<SubTexture name="InmateIzq0011" x="576" y="1994" width="515" height="422" frameX="-17" frameY="-6" frameWidth="532" frameHeight="428"/>
+	<SubTexture name="InmateIzq0012" x="576" y="1994" width="515" height="422" frameX="-17" frameY="-6" frameWidth="532" frameHeight="428"/>
+	<SubTexture name="InmateIzq0013" x="576" y="1994" width="515" height="422" frameX="-17" frameY="-6" frameWidth="532" frameHeight="428"/>
+	<SubTexture name="Miss Abajo0000" x="1115" y="1994" width="563" height="405" frameX="0" frameY="0" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0001" x="1702" y="1994" width="607" height="353" frameX="-10" frameY="-50" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0002" x="2333" y="1994" width="526" height="293" frameX="-75" frameY="-110" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0003" x="2883" y="1994" width="472" height="287" frameX="-59" frameY="-116" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0004" x="3379" y="1994" width="458" height="287" frameX="-73" frameY="-116" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0005" x="3379" y="1994" width="458" height="287" frameX="-73" frameY="-116" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0006" x="3379" y="1994" width="458" height="287" frameX="-73" frameY="-116" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0007" x="3379" y="1994" width="458" height="287" frameX="-73" frameY="-116" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0008" x="3379" y="1994" width="458" height="287" frameX="-73" frameY="-116" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0009" x="3379" y="1994" width="458" height="287" frameX="-73" frameY="-116" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0010" x="3379" y="1994" width="458" height="287" frameX="-73" frameY="-116" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0011" x="3379" y="1994" width="458" height="287" frameX="-73" frameY="-116" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0012" x="3379" y="1994" width="458" height="287" frameX="-73" frameY="-116" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Abajo0013" x="3379" y="1994" width="458" height="287" frameX="-73" frameY="-116" frameWidth="617" frameHeight="405"/>
+	<SubTexture name="Miss Arriba0000" x="3861" y="1994" width="463" height="355" frameX="0" frameY="-35" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0001" x="4348" y="1994" width="444" height="380" frameX="-14" frameY="-6" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0002" x="4816" y="1994" width="495" height="396" frameX="0" frameY="-4" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0003" x="5335" y="1994" width="362" height="401" frameX="-55" frameY="0" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0004" x="5721" y="1994" width="365" height="401" frameX="-55" frameY="0" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0005" x="5721" y="1994" width="365" height="401" frameX="-55" frameY="0" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0006" x="5721" y="1994" width="365" height="401" frameX="-55" frameY="0" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0007" x="5721" y="1994" width="365" height="401" frameX="-55" frameY="0" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0008" x="5721" y="1994" width="365" height="401" frameX="-55" frameY="0" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0009" x="5721" y="1994" width="365" height="401" frameX="-55" frameY="0" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0010" x="5721" y="1994" width="365" height="401" frameX="-55" frameY="0" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0011" x="5721" y="1994" width="365" height="401" frameX="-55" frameY="0" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0012" x="5721" y="1994" width="365" height="401" frameX="-55" frameY="0" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Arriba0013" x="5721" y="1994" width="365" height="401" frameX="-55" frameY="0" frameWidth="495" frameHeight="401"/>
+	<SubTexture name="Miss Der0000" x="6110" y="1994" width="522" height="380" frameX="0" frameY="-27" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0001" x="6656" y="1994" width="477" height="414" frameX="-3" frameY="0" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0002" x="7157" y="1994" width="498" height="394" frameX="-24" frameY="-22" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0003" x="7679" y="1994" width="484" height="392" frameX="-27" frameY="-27" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0004" x="24" y="2442" width="432" height="392" frameX="-79" frameY="-27" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0005" x="24" y="2442" width="432" height="392" frameX="-79" frameY="-27" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0006" x="24" y="2442" width="432" height="392" frameX="-79" frameY="-27" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0007" x="24" y="2442" width="432" height="392" frameX="-79" frameY="-27" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0008" x="24" y="2442" width="432" height="392" frameX="-79" frameY="-27" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0009" x="24" y="2442" width="432" height="392" frameX="-79" frameY="-27" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0010" x="24" y="2442" width="432" height="392" frameX="-79" frameY="-27" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0011" x="24" y="2442" width="432" height="392" frameX="-79" frameY="-27" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0012" x="24" y="2442" width="432" height="392" frameX="-79" frameY="-27" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Der0013" x="24" y="2442" width="432" height="392" frameX="-79" frameY="-27" frameWidth="522" frameHeight="419"/>
+	<SubTexture name="Miss Izq0000" x="480" y="2442" width="545" height="415" frameX="-29" frameY="0" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0001" x="1049" y="2442" width="482" height="359" frameX="0" frameY="-49" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0002" x="1555" y="2442" width="411" height="345" frameX="-57" frameY="-85" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0003" x="1990" y="2442" width="388" height="341" frameX="-49" frameY="-89" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0004" x="2402" y="2442" width="380" height="341" frameX="-57" frameY="-89" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0005" x="2402" y="2442" width="380" height="341" frameX="-57" frameY="-89" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0006" x="2402" y="2442" width="380" height="341" frameX="-57" frameY="-89" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0007" x="2402" y="2442" width="380" height="341" frameX="-57" frameY="-89" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0008" x="2402" y="2442" width="380" height="341" frameX="-57" frameY="-89" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0009" x="2402" y="2442" width="380" height="341" frameX="-57" frameY="-89" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0010" x="2402" y="2442" width="380" height="341" frameX="-57" frameY="-89" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0011" x="2402" y="2442" width="380" height="341" frameX="-57" frameY="-89" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0012" x="2402" y="2442" width="380" height="341" frameX="-57" frameY="-89" frameWidth="574" frameHeight="430"/>
+	<SubTexture name="Miss Izq0013" x="2402" y="2442" width="380" height="341" frameX="-57" frameY="-89" frameWidth="574" frameHeight="430"/>
+</TextureAtlas>

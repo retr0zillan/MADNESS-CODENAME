@@ -1,0 +1,30 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.3" name="jebediah1" folder="stages/jebediah1/" startCamPosY="708" startCamPosX="456">
+	<sprite name="sky"               x="62" y="-156"   sprite="Cielo"       scroll="0.9" />
+	<sprite name="buildings"       x="170" y="46"    sprite="Edificios"      scroll="1.5" />
+	<sprite name="floor"       x="128" y="44"    sprite="Suelo"      scroll="0.9" />
+	<high-memory>
+		<sprite name="memories" x="-94" y="-69" sprite="old"   scroll="0.9" alpha = "0"/>
+	</high-memory>
+	<girlfriend x = "650" y = "220"/>
+	<dad x = "276" y = "131" camxoffset = "154" camyoffset = "191"/>
+	<boyfriend x = "1015" y = "571" camxoffset = "-193" camyoffset = "-113"/>
+	<character name = "Coolhank" x = "1015" y = "550" camxoffset = "-193" camyoffset = "-113"/>
+
+	<high-memory>
+		<sprite name = "zombies" x = "-132" y = "528" sprite = "zombies" scroll = "0.9" alpha = "0" >
+			<anim name = "bump" anim = "Bumping" loop = "false"/>
+			<anim name = "appear" anim = "Intro" loop = "false"/>
+		</sprite>
+
+		<sprite name = "zombiepunch" x = "80" y = "113" sprite = "Golpe_Zombie" scroll = "0" alpha = "0">
+			<anim name = "punch" anim = "ZombiePunch" loop = "false"/>
+		</sprite>
+
+		<sprite name = "crack" x = "431" y = "34" sprite = "Grieta" scroll = "0" alpha = "0">
+			<anim name = "crack" anim = "Grieta" loop = "true"/>
+		</sprite>
+
+	</high-memory>
+	<sprite name="effect"    x="132" y="46"   sprite="Effecto"   scroll="0.9" />
+</stage>

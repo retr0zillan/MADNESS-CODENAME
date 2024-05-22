@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.1" name="scrappy" folder="stages/scrappy/" startCamPosY="-103" startCamPosX="493">
+	<sprite name="cielito"       x="-561" y="-946"    sprite="Sky"      scroll="1.0" />
+	<sprite name="bg"               x="-358" y="-483"   sprite="BuildingFull"       scroll="1.0" />
+	<sprite name="bg2"               x="-358" y="-483"   sprite="BuildingBroken"       scroll="1.0" alpha = "0"/>
+	<girlfriend y = "-150" x = "570"/>
+	<dad x = "-76" y = "-369" camxoffset = "150" camyoffset = "200"/>
+	<boyfriend x = "731" y = "-50" camxoffset = "-300" camyoffset = "-180"/>
+
+		<high-memory>
+	<sprite name = "screamer" x = "-76" y = "-369" sprite = "Scrapface_Screamer" scroll = "1" alpha = "0">
+		<anim name = "appear" anim = "ScreamerScrape" loop = "false"/>
+
+	</sprite>
+	</high-memory>
+</stage>

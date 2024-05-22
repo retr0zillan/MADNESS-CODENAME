@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Options.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Option1 Appears0000" x="10" y="10" width="623" height="468" frameX="-526" frameY="-190" frameWidth="1247" frameHeight="766"/>
+	<SubTexture name="Option1 Appears0001" x="10" y="10" width="623" height="468" frameX="-526" frameY="-190" frameWidth="1247" frameHeight="766"/>
+	<SubTexture name="Option1 Appears0002" x="643" y="10" width="958" height="578" frameX="-244" frameY="-120" frameWidth="1247" frameHeight="766"/>
+	<SubTexture name="Option1 Appears0003" x="643" y="10" width="958" height="578" frameX="-244" frameY="-120" frameWidth="1247" frameHeight="766"/>
+	<SubTexture name="Option1 Appears0004" x="1611" y="10" width="1247" height="766"/>
+	<SubTexture name="Option1 Appears0005" x="2868" y="10" width="1233" height="722" frameX="-12" frameY="-28" frameWidth="1233" frameHeight="722"/>
+	<SubTexture name="Option1Idle0000" x="2868" y="10" width="1233" height="722"/>
+	<SubTexture name="Option1Selected0000" x="2868" y="10" width="1233" height="722"/>
+	<SubTexture name="Option1Selected0001" x="2868" y="10" width="1233" height="722"/>
+	<SubTexture name="Option1Selected0002" x="4111" y="10" width="1233" height="722"/>
+	<SubTexture name="Option1Selected0003" x="5354" y="10" width="1233" height="722"/>
+	<SubTexture name="Option1Selected0004" x="6597" y="10" width="1233" height="722"/>
+	<SubTexture name="Option1Selected0005" x="10" y="786" width="1233" height="722"/>
+	<SubTexture name="Option1Selected0006" x="1253" y="786" width="1233" height="722"/>
+	<SubTexture name="Option1Selected0007" x="1253" y="786" width="1233" height="722"/>
+	<SubTexture name="Option1Selected0008" x="1253" y="786" width="1233" height="722"/>
+	<SubTexture name="Option1Selected0009" x="1253" y="786" width="1233" height="722"/>
+	<SubTexture name="Option2 Appears0000" x="2496" y="786" width="618" height="359" frameX="-245" frameY="-372" frameWidth="1326" frameHeight="733"/>
+	<SubTexture name="Option2 Appears0001" x="2496" y="786" width="618" height="359" frameX="-245" frameY="-372" frameWidth="1326" frameHeight="733"/>
+	<SubTexture name="Option2 Appears0002" x="3124" y="786" width="1032" height="464" frameX="-101" frameY="-268" frameWidth="1326" frameHeight="733"/>
+	<SubTexture name="Option2 Appears0003" x="3124" y="786" width="1032" height="464" frameX="-101" frameY="-268" frameWidth="1326" frameHeight="733"/>
+	<SubTexture name="Option2 Appears0004" x="4166" y="786" width="1326" height="700" frameX="0" frameY="-33" frameWidth="1326" frameHeight="733"/>
+	<SubTexture name="Option2 Appears0005" x="5502" y="786" width="1298" height="733" frameX="-9" frameY="0" frameWidth="1326" frameHeight="733"/>
+	<SubTexture name="Option2Idle0000" x="6810" y="786" width="1298" height="733"/>
+	<SubTexture name="Option2Selected0000" x="6810" y="786" width="1298" height="733"/>
+	<SubTexture name="Option2Selected0001" x="6810" y="786" width="1298" height="733"/>
+	<SubTexture name="Option2Selected0002" x="10" y="1529" width="1298" height="733"/>
+	<SubTexture name="Option2Selected0003" x="1318" y="1529" width="1298" height="733"/>
+	<SubTexture name="Option2Selected0004" x="2626" y="1529" width="1298" height="733"/>
+	<SubTexture name="Option2Selected0005" x="3934" y="1529" width="1298" height="733"/>
+	<SubTexture name="Option2Selected0006" x="5242" y="1529" width="1298" height="733"/>
+	<SubTexture name="Option2Selected0007" x="5242" y="1529" width="1298" height="733"/>
+	<SubTexture name="Option2Selected0008" x="5242" y="1529" width="1298" height="733"/>
+	<SubTexture name="Option2Selected0009" x="5242" y="1529" width="1298" height="733"/>
+	<SubTexture name="Option3 Appears0000" x="6550" y="1529" width="517" height="285" frameX="-106" frameY="-309" frameWidth="1298" frameHeight="733"/>
+	<SubTexture name="Option3 Appears0001" x="6550" y="1529" width="517" height="285" frameX="-106" frameY="-309" frameWidth="1298" frameHeight="733"/>
+	<SubTexture name="Option3 Appears0002" x="7077" y="1529" width="591" height="443" frameX="-96" frameY="-200" frameWidth="1298" frameHeight="733"/>
+	<SubTexture name="Option3 Appears0003" x="10" y="2272" width="1055" height="634" frameX="-33" frameY="-68" frameWidth="1298" frameHeight="733"/>
+	<SubTexture name="Option3 Appears0004" x="10" y="2272" width="1055" height="634" frameX="-33" frameY="-68" frameWidth="1298" frameHeight="733"/>
+	<SubTexture name="Option3 Appears0005" x="1075" y="2272" width="1298" height="733"/>
+	<SubTexture name="Option3Idle0000" x="1075" y="2272" width="1298" height="733"/>
+	<SubTexture name="Option3Selected0000" x="1075" y="2272" width="1298" height="733"/>
+	<SubTexture name="Option3Selected0001" x="1075" y="2272" width="1298" height="733"/>
+	<SubTexture name="Option3Selected0002" x="2383" y="2272" width="1298" height="733"/>
+	<SubTexture name="Option3Selected0003" x="3691" y="2272" width="1298" height="733"/>
+	<SubTexture name="Option3Selected0004" x="4999" y="2272" width="1298" height="733"/>
+	<SubTexture name="Option3Selected0005" x="6307" y="2272" width="1298" height="733"/>
+	<SubTexture name="Option3Selected0006" x="10" y="3015" width="1298" height="733"/>
+	<SubTexture name="Option3Selected0007" x="10" y="3015" width="1298" height="733"/>
+	<SubTexture name="Option3Selected0008" x="10" y="3015" width="1298" height="733"/>
+	<SubTexture name="Option3Selected0009" x="10" y="3015" width="1298" height="733"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="dad" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Enemies">
+	<anim x="0" loop="true" y="0" fps="24" anim="Enemy1_idle" name="enemy1-idling"/>
+	<anim x="20" loop="false" y="126" fps="24" anim="Enemy1_death" name="enemy1-death"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="Enemy2_idle" name="enemy2-idle"/>
+	<anim x="-8" loop="false" y="30" fps="24" anim="Enemy2_death" name="enemy2-death"/>
+	<anim x="0" loop="false" y="85" fps="24" anim="Enemy3_spawns" name="enemy3-spawn"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="Enemy3_idle" name="enemy3-idle"/>
+	<anim x="207" loop="false" y="79" fps="24" anim="Enemy3_death" name="enemy3-death"/>
+	<anim x="268" loop="false" y="243" fps="24" anim="Enemy3_attack" name="enemy3-attack"/>
+	<anim x="160" loop="false" y="20" fps="24" anim="Enemy4_spawns" name="enemy4-spawn"/>
+	<anim x="0" loop="true" y="0" fps="24" anim="Enemy4_idle" name="enemy4-idle"/>
+	<anim x="0" loop="false" y="-7" fps="24" anim="Enemy4_charging" name="enemy4-charge"/>
+	<anim x="15" loop="true" y="-7" fps="24" anim="Enemy4_attackloop" name="enemy4-attackloop"/>
+	<anim x="35" loop="false" y="54" fps="24" anim="Enemy4_death1" name="enemy4-death"/>
+	<anim x="21" loop="false" y="76" fps="24" anim="Enemy4_death2" name="enemy4-death2"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="Enemy5_idle" name="enemy5-idle"/>
+	<anim x="53" loop="false" y="-23" fps="24" anim="Enemy5_aim" name="enemy5-aim"/>
+	<anim x="251" loop="false" y="-27" fps="24" anim="Enemy5_shoot" name="enemy5-shoot"/>
+</character>

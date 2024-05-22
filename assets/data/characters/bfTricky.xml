@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bfTricky" y="0" isGF="false" scale="0.9" flipX="true" isPlayer="true" sprite="bfTricky">
+	<anim x="95" loop="false" y="130" fps="24" anim="Bf Idle" name="idle"/>
+	<anim x="66" loop="false" y="204" fps="24" anim="Bf Up0" name="singUP"/>
+	<anim x="103" loop="false" y="112" fps="24" anim="Bf Left0" name="singLEFT"/>
+	<anim x="83" loop="false" y="126" fps="24" anim="Bf Right0" name="singRIGHT"/>
+	<anim x="120" loop="false" y="111" fps="24" anim="Bf Down0" name="singDOWN"/>
+	<anim x="70" loop="false" y="203" fps="24" anim="Bf Up MISS" name="singUPmiss"/>
+	<anim x="103" loop="false" y="104" fps="24" anim="Bf Left MISS" name="singLEFTmiss"/>
+	<anim x="83" loop="false" y="124" fps="24" anim="Bf Right MISS" name="singRIGHTmiss"/>
+	<anim x="67" loop="false" y="99" fps="24" anim="Bf Down MISS" name="singDOWNmiss"/>
+	<anim x="85" loop="false" y="191" fps="24" anim="BfALT Idle" name="idle-cool"/>
+	<anim x="71" loop="false" y="221" fps="24" anim="BfALT Up0" name="singUP-cool"/>
+	<anim x="175" loop="false" y="182" fps="24" anim="BfALT Left0" name="singLEFT-cool"/>
+	<anim x="72" loop="false" y="158" fps="24" anim="BfALT Right 0" name="singRIGHT-cool"/>
+	<anim x="64" loop="false" y="114" fps="24" anim="BfALT Down0" name="singDOWN-cool"/>
+</character>

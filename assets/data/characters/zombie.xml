@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" camy = "-200" holdTime="4" sprite = "Zombie">
+	<anim name="idle"      anim="Idle"      fps="24" loop="false" x="-436" y="-80"/>
+	<anim name="singUP"    anim="up"    fps="24" loop="false" x="-516" y="111"/>
+	<anim name="singLEFT"  anim="right"  fps="24" loop="false" x="-639" y="-142"/>
+	<anim name="singRIGHT" anim="left" fps="24" loop="false" x="-82" y="-109"/>
+	<anim name="singDOWN"  anim="down"  fps="24" loop="false" x="-430" y="-189"/>
+	<anim name="intro"  anim="intro"  fps="24" loop="false" x="-199" y="59"/>
+	<anim name="End"  anim="End"  fps="24" loop="false" x="-290" y="539"/>
+
+</character>

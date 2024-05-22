@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.5" name="wank" folder="stages/wank/" startCamPosY="-1" startCamPosX="1680">
+
+
+	<girlfriend x = "650" y = "220"/>
+	<dad x = "-367" y = "95"/>
+
+	<boyfriend x = "500" y = "150"/>
+</stage>

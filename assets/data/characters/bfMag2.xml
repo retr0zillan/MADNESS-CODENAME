@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bfMag2" y="0" isGF="false" flipX="true" isPlayer="true" sprite="bfMag2">
+	<anim x="125" loop="false" y="159" fps="24" anim="Idle" name="idle"/>
+	<anim x="142" loop="false" y="224" fps="24" anim="Up" name="singUP"/>
+	<anim x="76" loop="false" y="196" fps="24" anim="Left" name="singLEFT"/>
+	<anim x="159" loop="false" y="184" fps="24" anim="StyleRight" name="singRIGHT"/>
+	<anim x="110" loop="false" y="206" fps="24" anim="Down" name="singDOWN"/>
+	<anim x="176" loop="false" y="200" fps="24" anim="MissUp" name="singUPmiss"/>
+	<anim x="152" loop="false" y="158" fps="24" anim="MissLeft" name="singLEFTmiss"/>
+	<anim x="178" loop="false" y="153" fps="24" anim="MissRight" name="singRIGHTmiss"/>
+	<anim x="228" loop="false" y="88" fps="24" anim="MissDown" name="singDOWNmiss"/>
+</character>

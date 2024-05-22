@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bfInsanity" y="0" isGF="false" flipX="true" isPlayer="true" sprite="bfInsanity">
+	<anim x="95" loop="false" y="130" fps="24" anim="BF idle" name="idle"/>
+	<anim x="66" loop="false" y="147" fps="24" anim="BF up" name="singUP"/>
+	<anim x="97" loop="false" y="124" fps="24" anim="BF left" name="singLEFT"/>
+	<anim x="70" loop="false" y="122" fps="24" anim="BF right" name="singRIGHT"/>
+	<anim x="111" loop="false" y="90" fps="24" anim="BF down" name="singDOWN"/>
+	<anim x="85" loop="false" y="147" fps="24" anim="MISS up" name="singUPmiss"/>
+	<anim x="117" loop="false" y="125" fps="24" anim="MISS left" name="singLEFTmiss"/>
+	<anim x="70" loop="false" y="120" fps="24" anim="MISS right" name="singRIGHTmiss"/>
+	<anim x="134" loop="false" y="86" fps="24" anim="MISS down" name="singDOWNmiss"/>
+	<anim x="70" loop="false" y="122" fps="24" anim="BF resist" name="resist"/>
+</character>

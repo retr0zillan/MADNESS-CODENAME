@@ -1,0 +1,22 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 160,
+	"difficulties": [
+		"HARD",
+		"NORMAL"
+	],
+	"needsVoices": true,
+	"parsedColor": -7376387,
+	"displayName": "bloodshed",
+	"icon": "bf",
+	"name": "bloodshed",
+	"color": "#8F71FD",
+	"customValues": {
+		"allowedChars":[
+		"Bf"
+		] 
+	}
+}

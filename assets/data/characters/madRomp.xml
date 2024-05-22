@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="madRomp"  y="0" isGF="false" camy="250" isPlayer="false" sprite="madRomp">
+	<anim x="-11" loop="false" y="-182" fps="24" anim="Idle" name="idle"/>
+	<anim x="213" loop="false" y="43" fps="24" anim="Up" name="singUP"/>
+	<anim x="162" loop="false" y="-147" fps="24" anim="Left" name="singLEFT"/>
+	<anim x="-3" loop="false" y="-131" fps="24" anim="Right" name="singRIGHT"/>
+	<anim x="-22" loop="false" y="-237" fps="24" anim="Down" name="singDOWN"/>
+</character>

@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="dad" y="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="Enemies">
+	<anim x="0" loop="true" y="0" fps="24" anim="Enemy1_idle" name="idle"/>
+	<anim x="20" loop="false" y="126" fps="24" anim="Enemy1_death" name="dies"/>
+
+</character>

@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" camy = "-200" camx = "-300" icon="chaser" y="0" isGF="false" isPlayer="false" sprite="chaser">
+	<anim x="371" loop="true" y="194" fps="24" anim="Idle instancia" name="idle"/>
+	<anim x="583" loop="false" y="191" fps="24" anim="Up instancia" name="singUP"/>
+	<anim x="395" loop="false" y="240" fps="24" anim="left instancia" name="singLEFT"/>
+	<anim x="147" loop="false" y="388" fps="24" anim="Right instancia" name="singRIGHT"/>
+	<anim x="477" loop="false" y="213" fps="24" anim="Down instancia" name="singDOWN"/>
+	<anim x="371" loop="true" y="194" fps="24" anim="Idle_hand_hard instancia" name="idle-alt"/>
+	<anim x="580" loop="false" y="271" fps="24" anim="Up_hand_hard instancia" name="singUP-alt"/>
+	<anim x="395" loop="false" y="201" fps="24" anim="left_hand_hard instancia" name="singLEFT-alt"/>
+	<anim x="151" loop="false" y="387" fps="24" anim="Right_hand_hard instancia" name="singRIGHT-alt"/>
+	<anim x="478" loop="false" y="213" fps="24" anim="Down_hand_hard instancia" name="singDOWN-alt"/>
+	<anim x="375" loop="false" y="347" fps="24" anim="destroy-head instancia" name="Destroy_Head"/>
+</character>

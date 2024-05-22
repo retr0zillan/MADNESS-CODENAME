@@ -1,0 +1,12 @@
+{
+	"displayName": "dexplication",
+	"bpm": 160.0,
+	"icon": "bf",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+	"customValues": {
+		"allowedChars":[
+		"Bf"
+		] 
+	}
+}

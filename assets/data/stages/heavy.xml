@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="heavy" folder="stages/heavy/" startCamPosY="239" startCamPosX="1065">
+	<sprite name="floor"               x="24" y="-373"   sprite="Suelo"       scroll="0.9" scale = "1"/>
+	
+	<girlfriend x = "650" y = "220"/>
+	<dad x = "832" y = "-500"/>
+	<boyfriend x = "757" y = "400"/>
+	<sprite name="filter"      x="22" y="-366"   sprite="Effect1 (add)"  scroll="0.9" scale = "1"/>
+
+</stage>

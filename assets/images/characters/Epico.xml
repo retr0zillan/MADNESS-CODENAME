@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Epico.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="epico down0000" x="14" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0001" x="373" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0002" x="732" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0003" x="732" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0004" x="1091" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0005" x="1091" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0006" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0007" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0008" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0009" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0010" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0011" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0012" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0013" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0014" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0015" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0016" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0017" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0018" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0019" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0020" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0021" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0022" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0023" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0024" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0025" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0026" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0027" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0028" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0029" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0030" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0031" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0032" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0033" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0034" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0035" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0036" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0037" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0038" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0039" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0040" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0041" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0042" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0043" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down0044" x="1450" y="14" width="344" height="319"/>
+	<SubTexture name="epico down fall0000" x="1809" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0001" x="2168" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0002" x="2527" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0003" x="2886" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0004" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0005" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0006" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0007" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0008" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0009" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0010" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0011" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0012" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0013" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0014" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0015" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0016" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0017" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0018" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0019" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0020" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0021" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0022" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0023" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0024" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0025" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0026" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0027" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0028" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0029" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0030" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0031" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0032" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0033" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0034" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0035" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0036" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0037" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0038" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0039" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico down fall0040" x="3245" y="14" width="344" height="322"/>
+	<SubTexture name="epico extra 10000" x="3604" y="14" width="357" height="386"/>
+	<SubTexture name="epico extra 10001" x="3604" y="14" width="357" height="386"/>
+	<SubTexture name="epico extra 10002" x="14" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10003" x="14" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10004" x="386" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10005" x="386" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10006" x="758" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10007" x="758" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10008" x="3604" y="14" width="357" height="386"/>
+	<SubTexture name="epico extra 10009" x="3604" y="14" width="357" height="386"/>
+	<SubTexture name="epico extra 10010" x="14" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10011" x="14" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10012" x="386" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10013" x="386" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10014" x="758" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10015" x="758" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10016" x="3604" y="14" width="357" height="386"/>
+	<SubTexture name="epico extra 10017" x="3604" y="14" width="357" height="386"/>
+	<SubTexture name="epico extra 10018" x="14" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10019" x="14" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10020" x="386" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10021" x="386" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10022" x="758" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10023" x="758" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10024" x="1130" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10025" x="1130" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10026" x="1502" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10027" x="1874" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10028" x="1874" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10029" x="2246" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10030" x="2618" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10031" x="2990" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10032" x="3362" y="415" width="357" height="386"/>
+	<SubTexture name="epico extra 10033" x="14" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10034" x="14" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10035" x="386" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10036" x="386" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10037" x="758" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10038" x="758" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10039" x="758" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10040" x="758" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10041" x="758" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10042" x="758" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10043" x="1130" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10044" x="1502" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10045" x="1502" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10046" x="1874" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10047" x="1874" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10048" x="2246" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10049" x="2246" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10050" x="2618" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10051" x="2990" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10052" x="2990" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10053" x="2990" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10054" x="2990" y="816" width="357" height="386"/>
+	<SubTexture name="epico extra 10055" x="2990" y="816" width="357" height="386"/>
+	<SubTexture name="epico idle0000" x="3362" y="816" width="360" height="340"/>
+	<SubTexture name="epico idle0001" x="14" y="1217" width="360" height="340"/>
+	<SubTexture name="epico idle0002" x="389" y="1217" width="360" height="340"/>
+	<SubTexture name="epico idle0003" x="389" y="1217" width="360" height="340"/>
+	<SubTexture name="epico idle0004" x="764" y="1217" width="360" height="340"/>
+	<SubTexture name="epico idle0005" x="764" y="1217" width="360" height="340"/>
+	<SubTexture name="epico idle0006" x="1139" y="1217" width="360" height="340"/>
+	<SubTexture name="epico idle0007" x="1139" y="1217" width="360" height="340"/>
+	<SubTexture name="epico idle0008" x="1514" y="1217" width="360" height="340"/>
+	<SubTexture name="epico idle0009" x="1514" y="1217" width="360" height="340"/>
+	<SubTexture name="epico idle0010" x="1889" y="1217" width="360" height="340"/>
+	<SubTexture name="epico idle0011" x="1889" y="1217" width="360" height="340"/>
+	<SubTexture name="epico idle0012" x="2264" y="1217" width="360" height="340"/>
+	<SubTexture name="epico idle0013" x="2264" y="1217" width="360" height="340"/>
+	<SubTexture name="epico left0000" x="2639" y="1217" width="361" height="320"/>
+	<SubTexture name="epico left0001" x="2639" y="1217" width="361" height="320"/>
+	<SubTexture name="epico left0002" x="3015" y="1217" width="361" height="320"/>
+	<SubTexture name="epico left0003" x="3015" y="1217" width="361" height="320"/>
+	<SubTexture name="epico left0004" x="3391" y="1217" width="361" height="320"/>
+	<SubTexture name="epico left0005" x="3391" y="1217" width="361" height="320"/>
+	<SubTexture name="epico left0006" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0007" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0008" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0009" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0010" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0011" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0012" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0013" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0014" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0015" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0016" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0017" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0018" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0019" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0020" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0021" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0022" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0023" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0024" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0025" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0026" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0027" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0028" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left0029" x="14" y="1572" width="361" height="320"/>
+	<SubTexture name="epico left fall0000" x="390" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0001" x="744" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0002" x="1098" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0003" x="1452" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0004" x="1806" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0005" x="2160" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0006" x="2160" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0007" x="1806" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0008" x="1806" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0009" x="2160" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0010" x="2160" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0011" x="1806" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0012" x="1806" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0013" x="2160" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0014" x="2160" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0015" x="1806" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0016" x="1806" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0017" x="2160" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0018" x="2160" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0019" x="1806" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0020" x="1806" y="1572" width="339" height="359"/>
+	<SubTexture name="epico left fall0021" x="2160" y="1572" width="339" height="359"/>
+	<SubTexture name="epico rigth0000" x="2514" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0001" x="2514" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0002" x="2907" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0003" x="2907" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0004" x="3300" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0005" x="3300" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0006" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0007" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0008" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0009" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0010" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0011" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0012" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0013" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0014" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0015" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0016" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0017" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0018" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0019" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0020" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0021" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0022" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0023" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0024" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0025" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0026" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0027" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0028" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0029" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0030" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0031" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0032" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth0033" x="3693" y="1572" width="378" height="289"/>
+	<SubTexture name="epico rigth fall0000" x="14" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0001" x="372" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0002" x="730" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0003" x="1088" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0004" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0005" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0006" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0007" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0008" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0009" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0010" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0011" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0012" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0013" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0014" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0015" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0016" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0017" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0018" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0019" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0020" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0021" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0022" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0023" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0024" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0025" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0026" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0027" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0028" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0029" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0030" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0031" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0032" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0033" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0034" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0035" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0036" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0037" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0038" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0039" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0040" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0041" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0042" x="1804" y="1946" width="343" height="310"/>
+	<SubTexture name="epico rigth fall0043" x="1446" y="1946" width="343" height="310"/>
+	<SubTexture name="epico up0000" x="2162" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0001" x="2520" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0002" x="2878" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0003" x="2878" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0004" x="3236" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0005" x="3236" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0006" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0007" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0008" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0009" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0010" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0011" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0012" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0013" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0014" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0015" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0016" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0017" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0018" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0019" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0020" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0021" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0022" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0023" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0024" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0025" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0026" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0027" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0028" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0029" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0030" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0031" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0032" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0033" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0034" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0035" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0036" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0037" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0038" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0039" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0040" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up0041" x="3594" y="1946" width="343" height="335"/>
+	<SubTexture name="epico up fall0000" x="14" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0001" x="366" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0002" x="718" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0003" x="1070" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0004" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0005" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0006" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0007" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0008" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0009" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0010" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0011" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0012" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0013" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0014" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0015" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0016" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0017" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0018" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0019" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0020" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0021" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0022" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0023" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0024" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0025" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0026" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0027" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0028" x="1422" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0029" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0030" x="1774" y="2296" width="337" height="374"/>
+	<SubTexture name="epico up fall0031" x="1422" y="2296" width="337" height="374"/>
+</TextureAtlas>

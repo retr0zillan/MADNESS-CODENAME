@@ -1,0 +1,7 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="helicopter" folder="stages/helicopter/" startCamPosY="456" startCamPosX="394">
+
+	<dad x = "93" y = "-100" camxoffset = "100" camyoffset = "191"/>
+	<boyfriend x = "550" y = "300" camxoffset = "-193" camyoffset = "-113"/>
+		<girlfriend/>
+</stage>

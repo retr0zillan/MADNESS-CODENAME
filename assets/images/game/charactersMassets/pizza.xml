@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pizza.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dos rebanadas0000" x="14" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0001" x="14" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0002" x="230" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0003" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0004" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0005" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0006" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0007" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0008" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0009" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0010" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0011" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0012" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0013" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0014" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0015" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0016" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0017" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0018" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0019" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0020" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0021" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0022" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0023" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0024" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0025" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0026" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0027" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0028" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0029" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0030" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0031" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0032" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0033" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0034" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0035" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0036" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0037" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0038" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0039" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="dos rebanadas0040" x="446" y="14" width="201" height="202"/>
+	<SubTexture name="pizza completa0000" x="662" y="14" width="206" height="205"/>
+	<SubTexture name="pizza completa0001" x="662" y="14" width="206" height="205"/>
+	<SubTexture name="pizza completa0002" x="14" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0003" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0004" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0005" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0006" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0007" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0008" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0009" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0010" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0011" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0012" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0013" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0014" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0015" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0016" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0017" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0018" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0019" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0020" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0021" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0022" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0023" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0024" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0025" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0026" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0027" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0028" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0029" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0030" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0031" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0032" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0033" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0034" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0035" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0036" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0037" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0038" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0039" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="pizza completa0040" x="235" y="234" width="206" height="205"/>
+	<SubTexture name="tres rebanadas0000" x="456" y="234" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0001" x="456" y="234" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0002" x="677" y="234" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0003" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0004" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0005" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0006" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0007" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0008" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0009" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0010" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0011" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0012" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0013" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0014" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0015" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0016" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0017" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0018" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0019" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0020" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0021" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0022" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0023" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0024" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0025" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0026" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0027" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0028" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0029" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0030" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0031" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0032" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0033" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0034" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0035" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0036" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0037" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0038" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0039" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="tres rebanadas0040" x="14" y="454" width="206" height="202"/>
+	<SubTexture name="una rebanada0000" x="235" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0001" x="235" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0002" x="451" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0003" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0004" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0005" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0006" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0007" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0008" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0009" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0010" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0011" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0012" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0013" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0014" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0015" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0016" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0017" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0018" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0019" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0020" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0021" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0022" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0023" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0024" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0025" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0026" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0027" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0028" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0029" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0030" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0031" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0032" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0033" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0034" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0035" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0036" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0037" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0038" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0039" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="una rebanada0040" x="667" y="454" width="201" height="194"/>
+	<SubTexture name="vacia0000" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0001" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0002" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0003" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0004" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0005" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0006" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0007" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0008" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0009" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0010" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0011" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0012" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0013" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0014" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0015" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0016" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0017" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0018" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0019" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0020" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0021" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0022" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0023" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0024" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0025" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0026" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0027" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0028" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0029" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0030" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0031" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0032" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0033" x="14" y="671" width="198" height="194"/>
+	<SubTexture name="vacia0034" x="14" y="671" width="198" height="194"/>
+</TextureAtlas>

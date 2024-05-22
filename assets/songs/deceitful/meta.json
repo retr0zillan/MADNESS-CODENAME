@@ -1,0 +1,12 @@
+{
+	"displayName": "deceitful",
+	"bpm": 197.0,
+	"icon": "bf",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+	"customValues": {
+		"allowedChars":[
+		"Bf"
+		] 
+	}
+}

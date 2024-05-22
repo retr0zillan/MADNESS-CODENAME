@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="180" icon="Sheriff" y="360" isGF="false" camy = "-250"flipX="true" isPlayer="true" sprite="Sheriff">
+	<anim x="195" loop="false" y="210" fps="24" anim="Idle" name="idle"/>
+	<anim x="256" loop="false" y="294" fps="24" anim="up" name="singUP"/>
+	<anim x="469" loop="false" y="207" fps="24" anim="left" name="singLEFT"/>
+	<anim x="317" loop="false" y="177" fps="24" anim="right" name="singRIGHT"/>
+	<anim x="198" loop="false" y="90" fps="24" anim="down" name="singDOWN"/>
+	<anim x="253" loop="false" y="273" fps="24" anim="Miss_up" name="singUPmiss"/>
+	<anim x="348" loop="false" y="220" fps="24" anim="Miss_left" name="singLEFTmiss"/>
+	<anim x="322" loop="false" y="192" fps="24" anim="Miss_right" name="singRIGHTmiss"/>
+	<anim x="201" loop="false" y="104" fps="24" anim="Miss_down" name="singDOWNmiss"/>
+</character>

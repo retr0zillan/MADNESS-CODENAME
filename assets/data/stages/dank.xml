@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="dank" folder="stages/dank/" startCamPosY="323" startCamPosX="1101">
+	<sprite name="bg"               x="-2774" y="-1854"   sprite="IMG_2463"       scroll="0.9" scale="0.2"/>
+
+
+	<girlfriend x = "660" y = "145"/>
+	<dad x = "1100" y= "30"/>
+	<boyfriend x = "708" y = "480" camxoffset = "-200"/>
+	<sprite name="floor"               x="-2779" y="-1846"   sprite="IMG_2461"       scroll="0.9" scale="0.2"/>
+
+
+</stage>

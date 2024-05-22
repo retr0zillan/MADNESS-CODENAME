@@ -1,0 +1,11 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="nofunkin" folder="stages/nofunkin/" startCamPosY="176" startCamPosX="156">
+	<sprite name="bg"               x="-600" y="-200"   sprite="BG"       scroll="0.9"/>
+
+
+	<girlfriend x = "660" y = "145"/>
+	<dad x = "-9" y= "257"/>
+	<boyfriend x = "723" y = "305" camxoffset = "-200"/>
+
+
+</stage>

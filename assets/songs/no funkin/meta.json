@@ -1,0 +1,12 @@
+{
+	"displayName": "no funkin",
+	"bpm": 240.0,
+	"icon": "bf",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+	"customValues": {
+		"allowedChars":[
+		"Bf"
+		] 
+	}
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="subButtonShit.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Freeplay Off0000" x="0" y="0" width="243" height="63"/>
+	<SubTexture name="Freeplay On0000" x="0" y="63" width="243" height="63"/>
+	<SubTexture name="Madness Off0000" x="0" y="126" width="244" height="55"/>
+	<SubTexture name="Madness On0000" x="0" y="181" width="244" height="55"/>
+	<SubTexture name="Versus Off0000" x="0" y="236" width="242" height="61"/>
+	<SubTexture name="Versus On0000" x="0" y="297" width="242" height="61"/>
+</TextureAtlas>

@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sanford-Ex.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sanford disparo 2 0000" x="0" y="0" width="245" height="172" frameX="0" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0001" x="245" y="0" width="245" height="172" frameX="-2" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0002" x="490" y="0" width="245" height="171" frameX="-5" frameY="-3" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0003" x="735" y="0" width="288" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0004" x="1023" y="0" width="302" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0005" x="1325" y="0" width="303" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0006" x="1628" y="0" width="558" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0007" x="2186" y="0" width="713" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0008" x="2899" y="0" width="401" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0009" x="3300" y="0" width="406" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0010" x="0" y="172" width="407" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0011" x="407" y="172" width="405" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0012" x="812" y="172" width="305" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0013" x="1117" y="172" width="306" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0014" x="1423" y="172" width="306" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0015" x="1729" y="172" width="306" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0016" x="2035" y="172" width="307" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0017" x="2342" y="172" width="566" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0018" x="2908" y="172" width="714" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0019" x="3622" y="172" width="402" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0020" x="0" y="344" width="407" height="172" frameX="-17" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0021" x="407" y="344" width="407" height="173" frameX="-17" frameY="-1" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0022" x="814" y="344" width="406" height="174" frameX="-17" frameY="0" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0023" x="1220" y="344" width="254" height="172" frameX="-16" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0024" x="1474" y="344" width="249" height="172" frameX="-7" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo 2 0025" x="1723" y="344" width="249" height="172" frameX="-7" frameY="-2" frameWidth="731" frameHeight="174"/>
+	<SubTexture name="sanford disparo1 0000" x="1972" y="344" width="245" height="172" frameX="0" frameY="-16" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0001" x="2217" y="344" width="248" height="172" frameX="-5" frameY="-16" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0002" x="2465" y="344" width="273" height="175" frameX="-17" frameY="-13" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0003" x="2738" y="344" width="306" height="175" frameX="-17" frameY="-13" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0004" x="3044" y="344" width="305" height="175" frameX="-17" frameY="-13" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0005" x="3349" y="344" width="305" height="174" frameX="-17" frameY="-14" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0006" x="3654" y="344" width="306" height="174" frameX="-17" frameY="-14" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0007" x="0" y="519" width="306" height="174" frameX="-17" frameY="-14" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0008" x="306" y="519" width="462" height="174" frameX="-17" frameY="-14" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0009" x="768" y="519" width="612" height="173" frameX="-17" frameY="-15" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0010" x="1380" y="519" width="405" height="178" frameX="-17" frameY="-10" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0011" x="1785" y="519" width="410" height="187" frameX="-17" frameY="-1" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0012" x="2195" y="519" width="411" height="187" frameX="-17" frameY="-1" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0013" x="2606" y="519" width="409" height="188" frameX="-17" frameY="0" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0014" x="3015" y="519" width="304" height="176" frameX="-17" frameY="-12" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0015" x="3319" y="519" width="304" height="175" frameX="-17" frameY="-13" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0016" x="3623" y="519" width="278" height="172" frameX="-17" frameY="-16" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0017" x="0" y="707" width="225" height="172" frameX="-17" frameY="-16" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford disparo1 0018" x="225" y="707" width="225" height="172" frameX="-17" frameY="-16" frameWidth="629" frameHeight="188"/>
+	<SubTexture name="sanford 0000" x="450" y="707" width="245" height="172" frameX="-1" frameY="0" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0001" x="695" y="707" width="245" height="171" frameX="-2" frameY="-1" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0002" x="940" y="707" width="245" height="168" frameX="-2" frameY="-4" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0003" x="1185" y="707" width="245" height="163" frameX="-3" frameY="-9" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0004" x="1430" y="707" width="246" height="162" frameX="-3" frameY="-10" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0005" x="1676" y="707" width="245" height="163" frameX="-4" frameY="-9" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0006" x="1921" y="707" width="246" height="167" frameX="-3" frameY="-5" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0007" x="2167" y="707" width="245" height="169" frameX="-3" frameY="-3" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0008" x="2412" y="707" width="245" height="171" frameX="-2" frameY="-1" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0009" x="2657" y="707" width="245" height="165" frameX="-1" frameY="-7" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0010" x="2902" y="707" width="245" height="167" frameX="-1" frameY="-5" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0011" x="3147" y="707" width="246" height="170" frameX="0" frameY="-2" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0012" x="3393" y="707" width="245" height="171" frameX="-1" frameY="-1" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0013" x="3638" y="707" width="245" height="171" frameX="-1" frameY="-1" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford 0014" x="0" y="879" width="245" height="171" frameX="-1" frameY="-1" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20000" x="450" y="707" width="245" height="172" frameX="-1" frameY="0" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20001" x="695" y="707" width="245" height="171" frameX="-2" frameY="-1" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20002" x="940" y="707" width="245" height="168" frameX="-2" frameY="-4" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20003" x="1185" y="707" width="245" height="163" frameX="-3" frameY="-9" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20004" x="1430" y="707" width="246" height="162" frameX="-3" frameY="-10" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20005" x="1676" y="707" width="245" height="163" frameX="-4" frameY="-9" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20006" x="1921" y="707" width="246" height="167" frameX="-3" frameY="-5" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20007" x="2167" y="707" width="245" height="169" frameX="-3" frameY="-3" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20008" x="2412" y="707" width="245" height="171" frameX="-2" frameY="-1" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20009" x="2657" y="707" width="245" height="165" frameX="-1" frameY="-7" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20010" x="2902" y="707" width="245" height="167" frameX="-1" frameY="-5" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20011" x="3147" y="707" width="246" height="170" frameX="0" frameY="-2" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20012" x="3393" y="707" width="245" height="171" frameX="-1" frameY="-1" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20013" x="3638" y="707" width="245" height="171" frameX="-1" frameY="-1" frameWidth="249" frameHeight="172"/>
+	<SubTexture name="sanford instancia 20014" x="0" y="879" width="245" height="171" frameX="-1" frameY="-1" frameWidth="249" frameHeight="172"/>
+</TextureAtlas>

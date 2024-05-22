@@ -1,0 +1,12 @@
+{
+	"displayName": "tricked",
+	"bpm": 240.0,
+	"icon": "bf",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+	"customValues": {
+		"allowedChars":[
+		"everyone"
+		] 
+	}
+}

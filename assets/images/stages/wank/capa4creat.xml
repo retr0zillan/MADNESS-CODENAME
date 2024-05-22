@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="capa4creat.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LaCreatura0000" x="10" y="10" width="73" height="53" frameX="-798" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0001" x="10" y="10" width="73" height="53" frameX="-774" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0002" x="10" y="10" width="73" height="53" frameX="-751" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0003" x="10" y="10" width="73" height="53" frameX="-727" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0004" x="10" y="10" width="73" height="53" frameX="-704" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0005" x="10" y="10" width="73" height="53" frameX="-681" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0006" x="10" y="10" width="73" height="53" frameX="-657" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0007" x="10" y="10" width="73" height="53" frameX="-634" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0008" x="10" y="10" width="73" height="53" frameX="-610" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0009" x="10" y="10" width="73" height="53" frameX="-587" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0010" x="10" y="10" width="73" height="53" frameX="-563" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0011" x="10" y="10" width="73" height="53" frameX="-540" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0012" x="10" y="10" width="73" height="53" frameX="-516" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0013" x="10" y="10" width="73" height="53" frameX="-493" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0014" x="10" y="10" width="73" height="53" frameX="-469" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0015" x="10" y="10" width="73" height="53" frameX="-446" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0016" x="10" y="10" width="73" height="53" frameX="-422" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0017" x="10" y="10" width="73" height="53" frameX="-399" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0018" x="10" y="10" width="73" height="53" frameX="-375" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0019" x="10" y="10" width="73" height="53" frameX="-352" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0020" x="10" y="10" width="73" height="53" frameX="-328" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0021" x="10" y="10" width="73" height="53" frameX="-305" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0022" x="10" y="10" width="73" height="53" frameX="-281" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0023" x="10" y="10" width="73" height="53" frameX="-258" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0024" x="10" y="10" width="73" height="53" frameX="-234" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0025" x="10" y="10" width="73" height="53" frameX="-211" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0026" x="10" y="10" width="73" height="53" frameX="-187" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0027" x="10" y="10" width="73" height="53" frameX="-164" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0028" x="10" y="10" width="73" height="53" frameX="-140" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0029" x="10" y="10" width="73" height="53" frameX="-117" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0030" x="10" y="10" width="73" height="53" frameX="-93" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0031" x="10" y="10" width="73" height="53" frameX="-70" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0032" x="10" y="10" width="73" height="53" frameX="-46" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0033" x="10" y="10" width="73" height="53" frameX="-23" frameY="0" frameWidth="871" frameHeight="53"/>
+	<SubTexture name="LaCreatura0034" x="10" y="10" width="73" height="53" frameX="0" frameY="0" frameWidth="871" frameHeight="53"/>
+</TextureAtlas>

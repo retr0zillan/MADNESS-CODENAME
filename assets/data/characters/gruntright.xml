@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="gruntleft" camx = "170" y="0" isGF="false" isPlayer="false" sprite="grunt2_">
+	<anim x="-901" loop="false" y="112" fps="24" anim="idle" name="idle"/>
+	<anim x="-886" loop="false" y="158" fps="24" anim="grunt_up" name="singUP"/>
+	<anim x="-752" loop="false" y="81" fps="24" anim="grunt_left" name="singLEFT"/>
+	<anim x="-909" loop="false" y="88" fps="24" anim="grunt_rigth" name="singRIGHT"/>
+	<anim x="-860" loop="false" y="-3" fps="24" anim="grunt_down" name="singDOWN"/>
+</character>

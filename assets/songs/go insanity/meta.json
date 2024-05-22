@@ -1,0 +1,12 @@
+{
+	"displayName": "go insanity",
+	"bpm": 250.0,
+	"icon": "bf",
+	"coopAllowed": true,
+	"opponentModeAllowed": true,
+	"customValues": {
+		"allowedChars":[
+		"everyone"
+		] 
+	}
+}

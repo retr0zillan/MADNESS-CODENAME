@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1.1" name="scrappy2" folder="stages/scrappy/" startCamPosY="-103" startCamPosX="493">
+	<sprite name="cielito"       x="-561" y="-946"    sprite="Sky"      scroll="1.0" />
+	<sprite name="bg"               x="-358" y="-483"   sprite="BuildingBroken"       scroll="1.0" />
+
+	
+		<sprite name = "scientist" x = "832" y = "-213" sprite = "idle" scroll = "1.0" scale = "0.6" >
+			<anim name = "bump" anim = "Idle" loop = "false"/>
+		</sprite>
+
+	<girlfriend y = "60" x = "450"/>
+	<dad x = "-76" y = "-369" camxoffset = "150" camyoffset = "200"/>
+	<boyfriend x = "640" y = "-50" camxoffset = "-300" camyoffset = "-180"/>
+
+
+</stage>

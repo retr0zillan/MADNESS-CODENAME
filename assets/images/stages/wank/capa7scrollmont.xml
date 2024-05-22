@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="capa7scrollmont.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BackSing0000" x="10" y="10" width="2529" height="1423" frameX="-2909" frameY="0" frameWidth="5438" frameHeight="1423"/>
+	<SubTexture name="BackSing0001" x="10" y="10" width="2529" height="1423" frameX="-2181" frameY="0" frameWidth="5438" frameHeight="1423"/>
+	<SubTexture name="BackSing0002" x="10" y="10" width="2529" height="1423" frameX="-1454" frameY="0" frameWidth="5438" frameHeight="1423"/>
+	<SubTexture name="BackSing0003" x="10" y="10" width="2529" height="1423" frameX="-727" frameY="0" frameWidth="5438" frameHeight="1423"/>
+	<SubTexture name="BackSing0004" x="10" y="10" width="2529" height="1423" frameX="0" frameY="0" frameWidth="5438" frameHeight="1423"/>
+</TextureAtlas>

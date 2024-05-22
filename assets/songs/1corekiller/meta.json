@@ -1,0 +1,10 @@
+{
+	"displayName": "1corekiller",
+	"bpm": 210.0,
+	"icon": "bf",
+	"coopAllowed": false,
+	"opponentModeAllowed": false,
+	"customValues": {
+		"allowOrigin": "true"
+	}
+}

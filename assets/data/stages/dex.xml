@@ -1,0 +1,14 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="dex" folder="stages/dex/" startCamPosY="-1" startCamPosX="-1">
+	<sprite name="bg" x="-1562" y="-919"    sprite="bg"      scroll="1.0" scale = "0.6"/>
+
+
+
+	
+	<dad x = "106" y = "-11" camxoffset = "150" camyoffset = "200"/>
+	<boyfriend x = "707" y = "498" camxoffset = "-300" camyoffset = "-180"/>
+	<girlfriend x = "834" y = "287"/>
+
+	<sprite name="light" x="-362" y="-257"   sprite="foco_uu"       scroll="1.1" />
+
+</stage>

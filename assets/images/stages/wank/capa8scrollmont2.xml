@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="capa8scrollmont2.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="FrontSing0000" x="10" y="10" width="2603" height="1482" frameX="-3533" frameY="0" frameWidth="6136" frameHeight="1482"/>
+	<SubTexture name="FrontSing0001" x="10" y="10" width="2603" height="1482" frameX="-2650" frameY="0" frameWidth="6136" frameHeight="1482"/>
+	<SubTexture name="FrontSing0002" x="10" y="10" width="2603" height="1482" frameX="-1766" frameY="0" frameWidth="6136" frameHeight="1482"/>
+	<SubTexture name="FrontSing0003" x="10" y="10" width="2603" height="1482" frameX="-883" frameY="0" frameWidth="6136" frameHeight="1482"/>
+	<SubTexture name="FrontSing0004" x="10" y="10" width="2603" height="1482" frameX="0" frameY="0" frameWidth="6136" frameHeight="1482"/>
+</TextureAtlas>

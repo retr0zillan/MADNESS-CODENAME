@@ -1,0 +1,6 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" holdTime="4" sprite = "BG grunts">
+	<anim name="yeah"      anim="BGgrunt_3"      fps="24" loop="true" x="0" y="0"/>
+	<anim name="death"      anim="BGdeath_3"      fps="24" loop="false" x="356" y="623"/>
+
+</character>

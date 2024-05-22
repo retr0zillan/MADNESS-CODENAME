@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Death jeb.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Crucified seva0000" x="6" y="6" width="311" height="379" frameX="-1" frameY="-646" frameWidth="322" frameHeight="1056"/>
+	<SubTexture name="Crucified seva0001" x="323" y="6" width="311" height="379" frameX="-1" frameY="-652" frameWidth="322" frameHeight="1056"/>
+	<SubTexture name="Crucified seva0002" x="640" y="6" width="312" height="380" frameX="0" frameY="-676" frameWidth="322" frameHeight="1056"/>
+	<SubTexture name="Crucified seva0003" x="958" y="6" width="312" height="380" frameX="0" frameY="-675" frameWidth="322" frameHeight="1056"/>
+	<SubTexture name="Crucified seva0004" x="1276" y="6" width="312" height="380" frameX="-4" frameY="-671" frameWidth="322" frameHeight="1056"/>
+	<SubTexture name="Crucified seva0005" x="1594" y="6" width="312" height="380" frameX="-6" frameY="-650" frameWidth="322" frameHeight="1056"/>
+	<SubTexture name="Crucified seva0006" x="6" y="392" width="312" height="380" frameX="-10" frameY="-561" frameWidth="322" frameHeight="1056"/>
+	<SubTexture name="Crucified seva0007" x="324" y="392" width="311" height="379" frameX="-1" frameY="-226" frameWidth="322" frameHeight="1056"/>
+	<SubTexture name="Crucified seva0008" x="641" y="392" width="311" height="379" frameX="-11" frameY="0" frameWidth="322" frameHeight="1056"/>
+	<SubTexture name="Crucified seva0009" x="958" y="392" width="0" height="0" frameX="-156" frameY="-835" frameWidth="322" frameHeight="1056"/>
+	<SubTexture name="Crucified seva0010" x="958" y="392" width="0" height="0" frameX="-156" frameY="-835" frameWidth="322" frameHeight="1056"/>
+	<SubTexture name="Crucified seva0011" x="958" y="392" width="0" height="0" frameX="-156" frameY="-835" frameWidth="322" frameHeight="1056"/>
+	<SubTexture name="crucified jebus0000" x="964" y="392" width="312" height="381"/>
+	<SubTexture name="crucified jebus0001" x="1282" y="392" width="312" height="381"/>
+	<SubTexture name="crucified jebus0002" x="1600" y="392" width="311" height="380" frameX="-1" frameY="-1" frameWidth="312" frameHeight="381"/>
+	<SubTexture name="crucified jebus0003" x="6" y="779" width="311" height="380" frameX="-1" frameY="-1" frameWidth="312" frameHeight="381"/>
+	<SubTexture name="crucified jebus0004" x="323" y="779" width="310" height="379" frameX="-2" frameY="-2" frameWidth="312" frameHeight="381"/>
+	<SubTexture name="crucified jebus0005" x="639" y="779" width="310" height="379" frameX="-2" frameY="-2" frameWidth="312" frameHeight="381"/>
+	<SubTexture name="crucified jebus0006" x="955" y="779" width="309" height="378" frameX="-3" frameY="-3" frameWidth="312" frameHeight="381"/>
+	<SubTexture name="crucified jebus0007" x="1270" y="779" width="309" height="378" frameX="-3" frameY="-3" frameWidth="312" frameHeight="381"/>
+	<SubTexture name="crucified jebus0008" x="1585" y="779" width="310" height="379" frameX="-2" frameY="-2" frameWidth="312" frameHeight="381"/>
+	<SubTexture name="crucified jebus0009" x="6" y="1165" width="310" height="379" frameX="-2" frameY="-2" frameWidth="312" frameHeight="381"/>
+	<SubTexture name="crucified jebus0010" x="322" y="1165" width="311" height="380" frameX="-1" frameY="-1" frameWidth="312" frameHeight="381"/>
+	<SubTexture name="crucified jebus0011" x="639" y="1165" width="311" height="380" frameX="-1" frameY="-1" frameWidth="312" frameHeight="381"/>
+	<SubTexture name="crucified jebus0012" x="956" y="1165" width="312" height="381"/>
+	<SubTexture name="crucified jebus0013" x="1274" y="1165" width="312" height="381"/>
+	<SubTexture name="crucified jebus0014" x="1592" y="1165" width="312" height="381"/>
+</TextureAtlas>

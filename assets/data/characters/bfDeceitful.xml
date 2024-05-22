@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="true" flipX="true" x="0" y="0" scale="1">
+	<anim name="idle"          anim="Idle"      fps="24" loop="false" x="125"  y="159"/>
+	<anim name="singUP"        anim="Up"        fps="24" loop="false" x="108" y="183"/>
+	<anim name="singLEFT"      anim="Left"      fps="24" loop="false" x="142"  y="151"/>
+	<anim name="singRIGHT"     anim="Right"     fps="24" loop="false" x="102" y="150"/>
+	<anim name="singDOWN"      anim="Down"      fps="24" loop="false" x="133" y="135"/>
+	<anim name="singUPmiss"    anim="MissUp"    fps="24" loop="false" x="108" y="173"/>
+	<anim name="singLEFTmiss"  anim="MissLeft"  fps="24" loop="false" x="142"  y="151"/>
+	<anim name="singRIGHTmiss" anim="MissRight" fps="24" loop="false" x="103" y="151"/>
+	<anim name="singDOWNmiss"  anim="MissDown"  fps="24" loop="false" x="133" y="135"/>
+	<anim name="idle-cool"  anim="StyleIdle"  fps="24" loop="false" x="124" y="160"/>
+	<anim name="singLEFT-cool"  anim="StyleLeft"  fps="24" loop="false" x="160" y="146"/>
+	<anim name="singRIGHT-cool"  anim="StyleRight"  fps="24" loop="false" x="103" y="151"/>
+	<anim name="singDOWN-cool"  anim="StyleDown"  fps="24" loop="false" x="130" y="136"/>
+	<anim name="singUP-cool"  anim="StyleUp"  fps="24" loop="false" x="272" y="169"/>
+</character>
